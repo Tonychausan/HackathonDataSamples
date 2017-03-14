@@ -12,11 +12,11 @@ from Utility import File
 
 TRAINING_DATA_FILE_PATH = 'NeuralNetwork/training_file.data'
 
-SESS_PATH = 'NeuralNetwork/Sessions/{}/'.format("2017-03-14-1358")
+SESS_PATH = 'NeuralNetwork/Sessions/{}/'.format("2017-03-14-1823")
 SESS_MODEL_PATH = SESS_PATH + 'emg_model'
 
 LEARNING_RATE = 0.05
-N_EPOCH = 500
+N_EPOCH = 5000
 
 layer_sizes = [0, 6 * 8, 3 * 8, 0]  # Network build
 
@@ -25,6 +25,9 @@ def create_emg_training_file():
     file_list = []
     folder = Utility.FOLDER_NAME
     for filename in os.listdir(folder):
+        if filename == ".gitignore":
+            continue
+
         file = File(filename, folder)
 
         if file.example_id <= 1500:
@@ -79,14 +82,30 @@ def create_network_meta_data_file(path):
         outfile.write("layer_sizes: ")
         for layer_size in layer_sizes:
             outfile.write(str(layer_size) + " ")
+        outfile.write("\n")
+
+        outfile.write("Epoch_count 0")
 
 
 def get_network_meta_data_from_file():
     file_path = SESS_PATH + "network.meta"
     with open(file_path, 'r') as metafile:
         layer_size_list = metafile.readline().split()[1:]
+        epoch_count = int(metafile.readline().split(" ")[1])
 
-    return list(map(int, layer_size_list))
+    return (list(map(int, layer_size_list)), epoch_count)
+
+def update_epoch_count_meta_data(epoch_count):
+    file_path = SESS_PATH + "network.meta"
+
+    with open(file_path, 'r') as metafile:
+        lines = metafile.readlines()
+
+    lines[1] = "Epoch_count " + str(epoch_count)
+    with open(file_path, 'w') as metafile:
+         for line in lines:
+            metafile.write(line)
+
 
 
 def create_emg_network_variables(number_of_neuron_for_layer):
@@ -193,7 +212,7 @@ def train_emg_network():
 
     (inputs, outputs) = get_training_inputs_and_outputs()
     (training_size, n_inputs, n_outputs) = get_training_meta_data()
-    sess_layer_sizes = get_network_meta_data_from_file()
+    (sess_layer_sizes, old_epoch_count) = get_network_meta_data_from_file()
 
     if(n_inputs != sess_layer_sizes[0] or n_outputs != sess_layer_sizes[-1]):
         print("Training file and session is not compatible!")
@@ -218,7 +237,7 @@ def train_emg_network():
     i = 0
     number_of_saved = 0
     while current_time < run_time and i < n_steps:
-        continue_emg_network_training(sess_layer_sizes, inputs, outputs, n_inputs, n_outputs, training_size)
+        continue_emg_network_training(sess_layer_sizes, inputs, outputs, n_inputs, n_outputs, training_size, n_steps, i)
 
         os.system('cls')
         print("Training Network")
@@ -228,8 +247,13 @@ def train_emg_network():
         print("Max Time (hours):", run_time / 3600)
         print()
 
-        print("Number of saved:", number_of_saved)
         number_of_saved += 1
+        print("Number of saved:", number_of_saved)
+
+        if i + N_EPOCH <= n_steps:
+            i += N_EPOCH
+        else:
+            i += (n_steps % N_EPOCH)
 
         current_time = time.time() - start_time
         (hours, minutes, seconds) = Utility.second_to_HMS(current_time)
@@ -243,15 +267,14 @@ def train_emg_network():
         print('Estimated time: {:.0f}h {:.0f}min {:.0f}sec'.format(hours, minutes, seconds))
 
         print('Batch:', i)
-
-        i += N_EPOCH
+        update_epoch_count_meta_data(old_epoch_count + i)
 
     print()
     print("Runtime:", '{0:.2f}'.format(float(time.time() - start_time)) + "sec")
     print("finished")
 
 
-def continue_emg_network_training(sess_layer_sizes, inputs, outputs, n_inputs, n_outputs, training_size):
+def continue_emg_network_training(sess_layer_sizes, inputs, outputs, n_inputs, n_outputs, training_size, n_steps, epoch_count):
     input_placeholder = tf.placeholder(tf.float32, shape=[training_size, n_inputs], name="input")
     output_placeholder = tf.placeholder(tf.float32, shape=[training_size, n_outputs], name="output")
 
@@ -267,6 +290,8 @@ def continue_emg_network_training(sess_layer_sizes, inputs, outputs, n_inputs, n
         train_step = tf.train.GradientDescentOptimizer(LEARNING_RATE).minimize(cost)
 
         for i in range(N_EPOCH):
+            if epoch_count + i >= n_steps:
+                break
             sess.run(train_step, feed_dict={input_placeholder: inputs, output_placeholder: outputs})
 
         saver.save(sess, SESS_MODEL_PATH)
@@ -329,7 +354,7 @@ def test_emg_network():
 def input_test_emg_network(input_data_handler):
     test_inputs = [input_data_handler.get_emg_data_features()]
 
-    sess_layer_sizes = get_network_meta_data_from_file()
+    (sess_layer_sizes, epoch_count) = get_network_meta_data_from_file()
     input_placeholder = tf.placeholder(tf.float32, shape=[1, sess_layer_sizes[0]], name="input")
 
     (theta, bias) = create_emg_network_variables(sess_layer_sizes)
@@ -357,7 +382,6 @@ def print_results(results):
 
 
 # create_emg_training_file()
-# create_emg_network()
-# continue_emg_network_training()
-train_emg_network()
+create_emg_network()
+# train_emg_network()
 # test_emg_network()
