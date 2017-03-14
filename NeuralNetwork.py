@@ -382,6 +382,6 @@ def print_results(results):
 
 
 # create_emg_training_file()
-create_emg_network()
-# train_emg_network()
+# create_emg_network()
+train_emg_network()
 # test_emg_network()
