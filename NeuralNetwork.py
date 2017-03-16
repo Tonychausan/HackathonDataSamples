@@ -384,7 +384,7 @@ def print_results(results):
     print("Recognized: " + str(numpy.argmax(results)))
 
 
-# create_emg_training_file()
+create_emg_training_file()
 # create_emg_network()
-train_emg_network()
+# train_emg_network()
 # test_emg_network()

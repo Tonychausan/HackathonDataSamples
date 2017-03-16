@@ -102,7 +102,8 @@ class DataHandler:
         for i in range(len(emg_feature_data)):
             emg_feature_data[i] = Utility.NormalizeArray(emg_feature_data[i])
 
+        return emg_feature_data
+
     def get_emg_data_features(self):
-        emg_data_features = self.wavelet_feature_extraxtion()
-        emg_data_features.extend(self.raw_emg_feature_extraxtion())
-        return self.wavelet_feature_extraxtion()
+        emg_data_features = numpy.append(self.wavelet_feature_extraxtion(), self.raw_emg_feature_extraxtion())
+        return emg_data_features
