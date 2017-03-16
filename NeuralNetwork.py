@@ -305,7 +305,10 @@ def test_emg_network():
 
     folder = Utility.FOLDER_NAME
     for filename in os.listdir(folder):
+        if filename == ".gitignore":
+            continue
         file = File(filename, folder)
+
 
         if file.example_id > 1500:
             file_list.append(file)
@@ -348,7 +351,7 @@ def test_emg_network():
     print("#############################################################")
     print("Success Rate")
     for i in range(Utility.NUMBER_OF_GESTURES):
-        print('{:15s}\t{:4d} of {:4d}'.format(i, success_list[i][1], success_list[i][0]))
+        print('{:d}\t{:4d} of {:4d}'.format(i, success_list[i][1], success_list[i][0]))
 
 
 def input_test_emg_network(input_data_handler):
