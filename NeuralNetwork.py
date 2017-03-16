@@ -95,6 +95,7 @@ def get_network_meta_data_from_file():
 
     return (list(map(int, layer_size_list)), epoch_count)
 
+
 def update_epoch_count_meta_data(epoch_count):
     file_path = SESS_PATH + "network.meta"
 
@@ -103,9 +104,8 @@ def update_epoch_count_meta_data(epoch_count):
 
     lines[1] = "Epoch_count " + str(epoch_count)
     with open(file_path, 'w') as metafile:
-         for line in lines:
+        for line in lines:
             metafile.write(line)
-
 
 
 def create_emg_network_variables(number_of_neuron_for_layer):
