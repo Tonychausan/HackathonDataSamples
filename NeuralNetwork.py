@@ -12,13 +12,13 @@ from Utility import File
 
 TRAINING_DATA_FILE_PATH = 'NeuralNetwork/training_file.data'
 
-SESS_PATH = 'NeuralNetwork/Sessions/{}/'.format("2017-03-14-1823")
+SESS_PATH = 'NeuralNetwork/Sessions/{}/'.format("2017-03-16-1526")
 SESS_MODEL_PATH = SESS_PATH + 'emg_model'
 
 LEARNING_RATE = 0.05
 N_EPOCH = 5000
 
-layer_sizes = [0, 6 * 8, 3 * 8, 0]  # Network build
+layer_sizes = [0, 100, 8*3, 0]  # Network build
 
 
 def create_emg_training_file():

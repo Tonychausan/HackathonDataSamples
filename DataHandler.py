@@ -5,6 +5,9 @@ import Utility
 
 
 EMG_WAVELET_LEVEL = 1
+NUMBER_OF_FEATURES = 3
+
+feature_functions = [Utility.mean_absolute_value, Utility.root_mean_square, Utility.waveform_length]
 
 
 class DataHandler:
@@ -33,61 +36,55 @@ class DataHandler:
         return emg_sums
 
     def wavelet_feature_extraxtion(self):
-        # global_max = 0
-        # global_min = -1
-        # for emg_array in self.emg_data:
-        #     local_max = numpy.max(emg_array)
-        #     local_min = numpy.min(emg_array)
-
-        #     if global_max < local_max:
-        #         global_max = local_max
-
-        #     if global_min == -1 or global_min > local_min:
-        #         global_min = local_min
-
-        mav_data = []
-        rms_data = []
-        wl_data = []
-
-        emg_feature_data = [mav_data, rms_data, wl_data]
+        emg_feature_data = []
 
         n = EMG_WAVELET_LEVEL
-        for emg_array in self.emg_data:
-            # emg_array = Utility.NormalizeArray(emg_array)
-            # emg_array = numpy.subtract(emg_array, global_min)
-            # emg_array = numpy.divide(emg_array, global_max - global_min)
+        for emg_id in range(len(self.emg_data)):
+            emg_array = self.emg_data[emg_id]
 
-            coeffs = pywt.wavedec(emg_array, 'db1', level=n)
-            cAn = coeffs[0]
-            cD = coeffs[1:]
+            coefficient_subsets = pywt.wavedec(emg_array, 'db1', level=n)
+            cAn = coefficient_subsets[0]  # approximation coefficient
+            cD = coefficient_subsets[1:]  # detail coefficient subset
 
-            reconstructed_signal = []
+            reconstructed_signals = []
             for i in range(n + 1):
-                temp_coeffs = [None] * (n + 1 - i)  # placement of [cAn, cDn, cD(n-1)..., cD1]
+                temp_coeffs = [None] * (n + 1 - i)  # init list [cAn, cD(n-i), cD(n-i-1)..., cD1]
                 if i == 0:
-                    temp_coeffs[i] = cAn
+                    temp_coeffs[0] = cAn
                 else:
                     temp_coeffs.append(None)
                     temp_coeffs[1] = cD[i - 1]
 
-                reconstructed_signal.append(pywt.waverec(temp_coeffs, 'db1'))
+                reconstructed_signals.append(pywt.waverec(temp_coeffs, 'db1'))
 
-            An = reconstructed_signal[0]
-            D = reconstructed_signal[1:]
+            # Emg signal = An + Dn + D(n-1) + ... + D1
+            # An = reconstructed_signals[0]
+            # D = reconstructed_signals[1:]
 
-            for i in range(len(coeffs)):
-                if i >= len(mav_data):
-                    for j in range(3):
-                        emg_feature_data[j].append([])
+            number_of_coeffcient_subsets = len(coefficient_subsets)
+            number_of_reconstructed_signals = len(reconstructed_signals)
 
-                mav_data[i].append(Utility.mean_absolute_value(coeffs[i]))
-                rms_data[i].append(Utility.root_mean_square(coeffs[i]))
-                wl_data[i].append(Utility.waveform_length(coeffs[i]))
+            for feature_function_id in range(len(feature_functions)):
+                feature_function = feature_functions[feature_function_id]
 
-        coeffs_size = len(mav_data)
-        for i in range(3):
-            for j in range(coeffs_size):
-                emg_feature_data[i][j] = Utility.NormalizeArray(emg_feature_data[i][j])
+                if emg_id == 0:
+                    for i in range(number_of_coeffcient_subsets):
+                        emg_feature_data.append([feature_function(coefficient_subsets[i])])
+
+                    for i in range(number_of_reconstructed_signals):
+                        emg_feature_data.append([feature_function(reconstructed_signals[i])])
+                else:
+                    emg_feature_data_id = feature_function_id * (number_of_coeffcient_subsets + number_of_reconstructed_signals)
+                    for i in range(number_of_coeffcient_subsets):
+                        j = emg_feature_data_id + i
+                        emg_feature_data[j].append(feature_function(coefficient_subsets[i]))
+
+                    for i in range(number_of_reconstructed_signals):
+                        j = emg_feature_data_id + number_of_coeffcient_subsets + i
+                        emg_feature_data[j].append(feature_function(reconstructed_signals[i]))
+
+        for i in range(NUMBER_OF_FEATURES):
+            emg_feature_data[i] = Utility.NormalizeArray(emg_feature_data[i])
 
         return numpy.array(emg_feature_data).flatten()
 
