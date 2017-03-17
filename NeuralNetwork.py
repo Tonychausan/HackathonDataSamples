@@ -15,7 +15,7 @@ TRAINING_DATA_FILE_PATH = 'NeuralNetwork/training_file.data'
 SESS_PATH = 'NeuralNetwork/Sessions/{}/'.format("2017-03-16-1558")
 SESS_MODEL_PATH = SESS_PATH + 'emg_model'
 
-LEARNING_RATE = 0.05
+LEARNING_RATE = 0.2
 N_EPOCH = 5000
 
 layer_sizes = [0, 150, 8*3, 0]  # Network build
@@ -310,7 +310,7 @@ def test_emg_network():
         file = File(filename, folder)
 
 
-        if file.example_id > 1500:
+        if file.example_id <= 1500:
             file_list.append(file)
 
     for test_file in file_list:
