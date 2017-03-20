@@ -12,7 +12,7 @@ from Utility import File
 
 TRAINING_DATA_FILE_PATH = 'NeuralNetwork/training_file.data'
 
-SESS_PATH = 'NeuralNetwork/Sessions/{}/'.format("2017-03-16-1558")
+SESS_PATH = 'NeuralNetwork/Sessions/{}/'.format("2017-03-18-1617")
 SESS_MODEL_PATH = SESS_PATH + 'emg_model'
 
 LEARNING_RATE = 0.2
@@ -30,7 +30,7 @@ def create_emg_training_file():
 
         file = File(filename, folder)
 
-        if file.example_id <= 1500:
+        if file.example_id <= 1500 and file.gesture < Utility.NUMBER_OF_GESTURES:
             file_list.append(file)
 
     data_handler = DataHandler(file_list[0])
@@ -310,7 +310,7 @@ def test_emg_network():
         file = File(filename, folder)
 
 
-        if file.example_id <= 1500:
+        if file.example_id > 1500 and file.gesture < Utility.NUMBER_OF_GESTURES:
             file_list.append(file)
 
     for test_file in file_list:

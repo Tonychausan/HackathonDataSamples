@@ -2,7 +2,7 @@ import numpy
 import os
 import re
 
-NUMBER_OF_GESTURES = 6
+NUMBER_OF_GESTURES = 2
 FOLDER_NAME = 'GestureData/'
 
 
