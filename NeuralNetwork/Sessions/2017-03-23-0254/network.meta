@@ -1,0 +1,3 @@
+layer_sizes 16 25 25 2 
+Epoch_count 5280000
+layer_activation_functions ReLu ReLu Softmax 
