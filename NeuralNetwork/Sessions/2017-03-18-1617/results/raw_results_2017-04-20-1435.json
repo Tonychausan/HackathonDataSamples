@@ -1,0 +1,8002 @@
+[
+    {
+        "filename": "Gesture1_Example1501.CSV",
+        "gesture": 0,
+        "results": [
+            0.9992175102233887,
+            0.0007916575414128602
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1502.CSV",
+        "gesture": 0,
+        "results": [
+            0.998869001865387,
+            0.001135494327172637
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1503.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999650716781616,
+            3.5841741919284686e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1504.CSV",
+        "gesture": 0,
+        "results": [
+            0.7505662441253662,
+            0.25170332193374634
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1505.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999935626983643,
+            6.257337645365624e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1506.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999897480010986,
+            1.0310730431228876e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1507.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999434947967529,
+            5.2401068387553096e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1508.CSV",
+        "gesture": 0,
+        "results": [
+            0.999961256980896,
+            4.014335718238726e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1509.CSV",
+        "gesture": 0,
+        "results": [
+            0.9968916773796082,
+            0.0025007794611155987
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1510.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998868703842163,
+            0.00011085667938459665
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1511.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999969005584717,
+            3.200605533493217e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1512.CSV",
+        "gesture": 0,
+        "results": [
+            0.0006802129792049527,
+            0.9992774128913879
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1513.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999591112136841,
+            4.096885822946206e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1514.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998233914375305,
+            0.0001711535733193159
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1515.CSV",
+        "gesture": 0,
+        "results": [
+            0.003416876308619976,
+            0.9959694147109985
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1516.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.1089655416185451e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1517.CSV",
+        "gesture": 0,
+        "results": [
+            0.9336004257202148,
+            0.06500890105962753
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1518.CSV",
+        "gesture": 0,
+        "results": [
+            0.00014198734425008297,
+            0.9998589754104614
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1519.CSV",
+        "gesture": 0,
+        "results": [
+            0.9995384216308594,
+            0.0004617336962837726
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1520.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999959468841553,
+            4.110505869903136e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1521.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999129772186279,
+            8.623494068160653e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1522.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            2.8577443345056963e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1523.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.0623222834738044e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1524.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.918910979587963e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1525.CSV",
+        "gesture": 0,
+        "results": [
+            0.999927282333374,
+            7.319660653593019e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1526.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999979734420776,
+            2.090047928504646e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1527.CSV",
+        "gesture": 0,
+        "results": [
+            0.9940993785858154,
+            0.006106475368142128
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1528.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999674558639526,
+            3.3240969059988856e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1529.CSV",
+        "gesture": 0,
+        "results": [
+            0.999987006187439,
+            1.329673523287056e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1530.CSV",
+        "gesture": 0,
+        "results": [
+            0.9991740584373474,
+            0.0008492532651871443
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1531.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.1729725574459735e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1532.CSV",
+        "gesture": 0,
+        "results": [
+            0.9982420206069946,
+            0.0017734058201313019
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1533.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999899864196777,
+            1.0501563338038977e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1534.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999986886978149,
+            1.3765080666416907e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1535.CSV",
+        "gesture": 0,
+        "results": [
+            0.9874633550643921,
+            0.012691870331764221
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1536.CSV",
+        "gesture": 0,
+        "results": [
+            0.9988333582878113,
+            0.0011937841773033142
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1537.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997437596321106,
+            0.000260400352999568
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1538.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999547004699707,
+            4.564844130072743e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1539.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.4824010463598825e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1540.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999992847442627,
+            6.976526947255479e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1541.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999294281005859,
+            7.059550262056291e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1542.CSV",
+        "gesture": 0,
+        "results": [
+            0.9943622350692749,
+            0.005728595424443483
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1543.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999983310699463,
+            1.7538550309836864e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1544.CSV",
+        "gesture": 0,
+        "results": [
+            0.9026039838790894,
+            0.09795011579990387
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1545.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999990463256836,
+            9.572635235599591e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1546.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999172687530518,
+            7.737848500255495e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1547.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999986886978149,
+            1.1961101336055435e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1548.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.100364682178224e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1549.CSV",
+        "gesture": 0,
+        "results": [
+            0.969912588596344,
+            0.029352709650993347
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1550.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.8594326078869017e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1551.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996589422225952,
+            0.000253175210673362
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1552.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999408721923828,
+            5.9616751968860626e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1553.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.69737841559936e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1554.CSV",
+        "gesture": 0,
+        "results": [
+            0.9977089166641235,
+            0.0023494220804423094
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1555.CSV",
+        "gesture": 0,
+        "results": [
+            0.9992108345031738,
+            0.0007734044920653105
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1556.CSV",
+        "gesture": 0,
+        "results": [
+            0.007888960652053356,
+            0.9913603663444519
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1557.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999997615814209,
+            2.5101928713411326e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1558.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999992847442627,
+            6.860477697046008e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1559.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999680519104004,
+            3.27864836435765e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1560.CSV",
+        "gesture": 0,
+        "results": [
+            0.7348275184631348,
+            0.271370530128479
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1561.CSV",
+        "gesture": 0,
+        "results": [
+            0.997938334941864,
+            0.0020301183685660362
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1562.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.239601641449099e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1563.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.7185764988880692e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1564.CSV",
+        "gesture": 0,
+        "results": [
+            0.9984147548675537,
+            0.0016161621315404773
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1565.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999988079071045,
+            1.1548551128726103e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1566.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999850988388062,
+            1.5418228940689005e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1567.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999995231628418,
+            5.066212906967849e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1568.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999532699584961,
+            4.588119190884754e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1569.CSV",
+        "gesture": 0,
+        "results": [
+            0.9987722039222717,
+            0.0012414639350026846
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1570.CSV",
+        "gesture": 0,
+        "results": [
+            0.9995836615562439,
+            0.00042161389137618244
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1571.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.1952164591377823e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1572.CSV",
+        "gesture": 0,
+        "results": [
+            0.005025189369916916,
+            0.9947080612182617
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1573.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.4581705287675106e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1574.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.527398557106153e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1575.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999231100082397,
+            7.40088798920624e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1576.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            6.23320417503237e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1577.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999961853027344,
+            3.9209562601172365e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1578.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996781349182129,
+            0.0003380000707693398
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1579.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998475313186646,
+            0.00015475126565434039
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1580.CSV",
+        "gesture": 0,
+        "results": [
+            0.9978891015052795,
+            0.002155707450583577
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1581.CSV",
+        "gesture": 0,
+        "results": [
+            0.18127672374248505,
+            0.7966433763504028
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1582.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998764991760254,
+            0.00012732135655824095
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1583.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            7.410280744579723e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1584.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            3.880690826463251e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1585.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998600482940674,
+            0.00014554260997101665
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1586.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.6239283695540507e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1587.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.5519922881330785e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1588.CSV",
+        "gesture": 0,
+        "results": [
+            0.9978645443916321,
+            0.002161068143323064
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1589.CSV",
+        "gesture": 0,
+        "results": [
+            0.04579363763332367,
+            0.9537042379379272
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1590.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999945163726807,
+            5.713228802051162e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1591.CSV",
+        "gesture": 0,
+        "results": [
+            0.0006651901639997959,
+            0.9992844462394714
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1592.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996815919876099,
+            0.0003269914595875889
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1593.CSV",
+        "gesture": 0,
+        "results": [
+            9.427992040400568e-07,
+            0.9999990463256836
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1594.CSV",
+        "gesture": 0,
+        "results": [
+            0.00016404931375291198,
+            0.9998262524604797
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1595.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998384714126587,
+            0.0001617107045603916
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1596.CSV",
+        "gesture": 0,
+        "results": [
+            2.6982934286934324e-06,
+            0.9999972581863403
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1597.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998111128807068,
+            0.0001827148807933554
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1598.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999995231628418,
+            3.9075518998288317e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1599.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999699592590332,
+            2.8728640245390125e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1600.CSV",
+        "gesture": 0,
+        "results": [
+            0.0002826928102876991,
+            0.9997205138206482
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1601.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999064207077026,
+            9.586526721250266e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1602.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999988079071045,
+            1.1830391031253384e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1603.CSV",
+        "gesture": 0,
+        "results": [
+            0.999998927116394,
+            1.0674951909095398e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1604.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.0377315362575246e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1605.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999973773956299,
+            2.7313813006912824e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1606.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.3427239764496335e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1607.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.4391065006336135e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1608.CSV",
+        "gesture": 0,
+        "results": [
+            0.9374929070472717,
+            0.060741547495126724
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1609.CSV",
+        "gesture": 0,
+        "results": [
+            0.998082160949707,
+            0.001986459828913212
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1610.CSV",
+        "gesture": 0,
+        "results": [
+            0.9813490509986877,
+            0.019273322075605392
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1611.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.049041603058299e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1612.CSV",
+        "gesture": 0,
+        "results": [
+            0.5781652927398682,
+            0.37857547402381897
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1613.CSV",
+        "gesture": 0,
+        "results": [
+            0.9494270086288452,
+            0.05047069862484932
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1614.CSV",
+        "gesture": 0,
+        "results": [
+            0.011797628365457058,
+            0.9882756471633911
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1615.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.452388318616386e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1616.CSV",
+        "gesture": 0,
+        "results": [
+            0.976017951965332,
+            0.02262364700436592
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1617.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999527931213379,
+            4.896272730547935e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1618.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996091723442078,
+            0.000404795486247167
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1619.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.609942022033465e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1620.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            2.495563649063115e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1621.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999567270278931,
+            4.490918945521116e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1622.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            9.315952453903265e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1623.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.362075228276808e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1624.CSV",
+        "gesture": 0,
+        "results": [
+            0.9941621422767639,
+            0.005995261482894421
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1625.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            7.735483364967877e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1626.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998481273651123,
+            0.00015353559865616262
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1627.CSV",
+        "gesture": 0,
+        "results": [
+            0.9993863105773926,
+            0.000642745231743902
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1628.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999583959579468,
+            4.262774746166542e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1629.CSV",
+        "gesture": 0,
+        "results": [
+            0.9285826086997986,
+            0.0689767375588417
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1630.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999371767044067,
+            6.486212805612013e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1631.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999997615814209,
+            2.3411678284901427e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1632.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.614597332557423e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1633.CSV",
+        "gesture": 0,
+        "results": [
+            0.5683007836341858,
+            0.4351402223110199
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1634.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998948574066162,
+            0.00010831685358425602
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1635.CSV",
+        "gesture": 0,
+        "results": [
+            0.0015107716899365187,
+            0.9983975291252136
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1636.CSV",
+        "gesture": 0,
+        "results": [
+            0.9994935989379883,
+            0.0004976930795237422
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1637.CSV",
+        "gesture": 0,
+        "results": [
+            0.7294366955757141,
+            0.2698051333427429
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1638.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999910593032837,
+            9.21498576644808e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1639.CSV",
+        "gesture": 0,
+        "results": [
+            0.9987688660621643,
+            0.0012565671931952238
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1640.CSV",
+        "gesture": 0,
+        "results": [
+            0.32690665125846863,
+            0.6791212558746338
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1641.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998658895492554,
+            0.00013776349078398198
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1642.CSV",
+        "gesture": 0,
+        "results": [
+            0.9979543685913086,
+            0.002104491228237748
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1643.CSV",
+        "gesture": 0,
+        "results": [
+            0.971206545829773,
+            0.028615565970540047
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1644.CSV",
+        "gesture": 0,
+        "results": [
+            0.9314025044441223,
+            0.06868217140436172
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1645.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999980926513672,
+            1.935782620421378e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1646.CSV",
+        "gesture": 0,
+        "results": [
+            0.5291151404380798,
+            0.468780517578125
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1647.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.695595486239654e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1648.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996598958969116,
+            0.00033068854827433825
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1649.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999895095825195,
+            1.0915499842667487e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1650.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            8.481745794597373e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1651.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999991655349731,
+            8.443383876510779e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1652.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.30184137201195e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1653.CSV",
+        "gesture": 0,
+        "results": [
+            0.9993489384651184,
+            0.0006567570380866528
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1654.CSV",
+        "gesture": 0,
+        "results": [
+            0.7313193678855896,
+            0.26793143153190613
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1655.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.788132113020538e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1656.CSV",
+        "gesture": 0,
+        "results": [
+            1.8483420944903628e-06,
+            0.9999980926513672
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1657.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999997615814209,
+            2.0332873873485369e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1658.CSV",
+        "gesture": 0,
+        "results": [
+            0.7883153557777405,
+            0.17156852781772614
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1659.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.060095903923866e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1660.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.457038820821936e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1661.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999268054962158,
+            7.511751027777791e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1662.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999316930770874,
+            6.90784800099209e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1663.CSV",
+        "gesture": 0,
+        "results": [
+            0.8649773001670837,
+            0.13496951758861542
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1664.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999959468841553,
+            4.034601715829922e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1665.CSV",
+        "gesture": 0,
+        "results": [
+            0.8952749371528625,
+            0.09754814207553864
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1666.CSV",
+        "gesture": 0,
+        "results": [
+            0.952235996723175,
+            0.04073167219758034
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1667.CSV",
+        "gesture": 0,
+        "results": [
+            0.9994081258773804,
+            0.0006104925414547324
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1668.CSV",
+        "gesture": 0,
+        "results": [
+            0.9961877465248108,
+            0.003889457555487752
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1669.CSV",
+        "gesture": 0,
+        "results": [
+            0.9982694387435913,
+            0.0017818704945966601
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1670.CSV",
+        "gesture": 0,
+        "results": [
+            0.9881784319877625,
+            0.012127530761063099
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1671.CSV",
+        "gesture": 0,
+        "results": [
+            0.8571704626083374,
+            0.14321035146713257
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1672.CSV",
+        "gesture": 0,
+        "results": [
+            0.9139216542243958,
+            0.0886719822883606
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1673.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.6501213906394696e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1674.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999675750732422,
+            3.342093987157568e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1675.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            3.7416461395878287e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1676.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999997615814209,
+            2.3698018480899918e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1677.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999970197677612,
+            2.9792756777169416e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1678.CSV",
+        "gesture": 0,
+        "results": [
+            0.474714070558548,
+            0.5265057682991028
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1679.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.7142028241323715e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1680.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999986886978149,
+            1.3274310504129971e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1681.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999901056289673,
+            9.868539564195089e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1682.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999849796295166,
+            1.5481142327189445e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1683.CSV",
+        "gesture": 0,
+        "results": [
+            0.9600607752799988,
+            0.0396779365837574
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1684.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.197119701146221e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1685.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.4437307288849297e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1686.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999961853027344,
+            3.837970780296018e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1687.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.844138286521968e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1688.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.2095860979499662e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1689.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999988079071045,
+            1.163523165814695e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1690.CSV",
+        "gesture": 0,
+        "results": [
+            0.999996542930603,
+            3.5152268083038507e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1691.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.2057482951254315e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1692.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999947547912598,
+            5.4038414418755565e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1693.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            8.37824600807835e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1694.CSV",
+        "gesture": 0,
+        "results": [
+            0.999617338180542,
+            0.0003879569994751364
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1695.CSV",
+        "gesture": 0,
+        "results": [
+            0.9705587029457092,
+            0.028094876557588577
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1696.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.757221390619179e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1697.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            7.123051037893902e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1698.CSV",
+        "gesture": 0,
+        "results": [
+            1.7108161046053283e-05,
+            0.9999819993972778
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1699.CSV",
+        "gesture": 0,
+        "results": [
+            0.999925971031189,
+            7.470860873581842e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1700.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.5518756057986138e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1701.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.6266893105031386e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1702.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999973773956299,
+            2.7091305128124077e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1703.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999933242797852,
+            6.694063358736457e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1704.CSV",
+        "gesture": 0,
+        "results": [
+            0.9983308911323547,
+            0.0016920528141781688
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1705.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.2706453844657517e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1706.CSV",
+        "gesture": 0,
+        "results": [
+            0.9782335758209229,
+            0.02232234552502632
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1707.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997972846031189,
+            0.0002073460491374135
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1708.CSV",
+        "gesture": 0,
+        "results": [
+            0.999690055847168,
+            0.0003222318191546947
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1709.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999992847442627,
+            6.912504204592551e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1710.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999994039535522,
+            6.259739393499331e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1711.CSV",
+        "gesture": 0,
+        "results": [
+            0.9987360835075378,
+            0.0012749393936246634
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1712.CSV",
+        "gesture": 0,
+        "results": [
+            0.999995231628418,
+            4.797092969965888e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1713.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998815059661865,
+            0.0001231527712661773
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1714.CSV",
+        "gesture": 0,
+        "results": [
+            0.9501499533653259,
+            0.05015517398715019
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1715.CSV",
+        "gesture": 0,
+        "results": [
+            0.9994367957115173,
+            0.000500969123095274
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1716.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999971389770508,
+            2.955118588943151e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1717.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999990463256836,
+            9.816039892029949e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1718.CSV",
+        "gesture": 0,
+        "results": [
+            0.999259889125824,
+            0.0007316424744203687
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1719.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.7678387460337035e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1720.CSV",
+        "gesture": 0,
+        "results": [
+            0.9983561635017395,
+            0.0016349076759070158
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1721.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            7.380609456930642e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1722.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999959468841553,
+            4.148283551330678e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1723.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.0573464326313342e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1724.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999940395355225,
+            6.016149200149812e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1725.CSV",
+        "gesture": 0,
+        "results": [
+            0.9989262223243713,
+            0.0010833395645022392
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1726.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999302625656128,
+            6.822453724453226e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1727.CSV",
+        "gesture": 0,
+        "results": [
+            0.3385019600391388,
+            0.6673775315284729
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1728.CSV",
+        "gesture": 0,
+        "results": [
+            0.9995977282524109,
+            0.00036389558226801455
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1729.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999196529388428,
+            8.153184171533212e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1730.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999879598617554,
+            1.2120231076551136e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1731.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.8333258244851436e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1732.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999926090240479,
+            7.269909474416636e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1733.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999545812606812,
+            4.673728835768998e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1734.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998624324798584,
+            0.00012099341984139755
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1735.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.2203086419713145e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1736.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.775748152496817e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1737.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998973608016968,
+            9.611378482077271e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1738.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.319801678003387e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1739.CSV",
+        "gesture": 0,
+        "results": [
+            0.7425018548965454,
+            0.2563740909099579
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1740.CSV",
+        "gesture": 0,
+        "results": [
+            2.7942641622757947e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1741.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999773502349854,
+            2.36264277191367e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1742.CSV",
+        "gesture": 0,
+        "results": [
+            0.00023987387248780578,
+            0.9997547268867493
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1743.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999997615814209,
+            2.1284256490616826e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1744.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999988079071045,
+            1.1382526281522587e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1745.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.0571166164652368e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1746.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.220236160534796e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1747.CSV",
+        "gesture": 0,
+        "results": [
+            0.394234299659729,
+            0.6106047630310059
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1748.CSV",
+        "gesture": 0,
+        "results": [
+            0.0016785708721727133,
+            0.9983323216438293
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1749.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999710321426392,
+            2.9325210562092252e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1750.CSV",
+        "gesture": 0,
+        "results": [
+            0.9153182506561279,
+            0.08441440761089325
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1751.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997841715812683,
+            0.0002225892385467887
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1752.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999957084655762,
+            4.3787404138129205e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1753.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.252349619562665e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1754.CSV",
+        "gesture": 0,
+        "results": [
+            2.978136535602971e-06,
+            0.9999969005584717
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1755.CSV",
+        "gesture": 0,
+        "results": [
+            0.0006095698336139321,
+            0.9994018077850342
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1756.CSV",
+        "gesture": 0,
+        "results": [
+            0.999211311340332,
+            0.0008036458166316152
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1757.CSV",
+        "gesture": 0,
+        "results": [
+            0.9994932413101196,
+            0.00048062880523502827
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1758.CSV",
+        "gesture": 0,
+        "results": [
+            0.008131352253258228,
+            0.9910343289375305
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1759.CSV",
+        "gesture": 0,
+        "results": [
+            0.9980143308639526,
+            0.0020524226129055023
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1760.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999995231628418,
+            4.904239290226542e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1761.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.007739086096194e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1762.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999967813491821,
+            3.203311052857316e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1763.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            8.934942030691673e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1764.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999994039535522,
+            5.043170858698431e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1765.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998451471328735,
+            0.00015947429346852005
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1766.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999992847442627,
+            6.96929816967895e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1767.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.2482074396302778e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1768.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999997615814209,
+            2.6399609964755655e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1769.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            7.595558626505294e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1770.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.940683779291021e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1771.CSV",
+        "gesture": 0,
+        "results": [
+            0.07993656396865845,
+            0.9207603335380554
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1772.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.9240273374521166e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1773.CSV",
+        "gesture": 0,
+        "results": [
+            0.9967331886291504,
+            0.0033323143143206835
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1774.CSV",
+        "gesture": 0,
+        "results": [
+            0.9821817278862,
+            0.018091872334480286
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1775.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999990463256836,
+            6.61149499592284e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1776.CSV",
+        "gesture": 0,
+        "results": [
+            0.9943781495094299,
+            0.005544884596019983
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1777.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            7.398947010628376e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1778.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999858140945435,
+            1.3625613973999862e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1779.CSV",
+        "gesture": 0,
+        "results": [
+            0.9992761015892029,
+            0.0007155105704441667
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1780.CSV",
+        "gesture": 0,
+        "results": [
+            0.9684176445007324,
+            0.03220733627676964
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1781.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999915361404419,
+            8.682966836204287e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1782.CSV",
+        "gesture": 0,
+        "results": [
+            0.002036321209743619,
+            0.997974693775177
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1783.CSV",
+        "gesture": 0,
+        "results": [
+            0.08148778975009918,
+            0.9188807010650635
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1784.CSV",
+        "gesture": 0,
+        "results": [
+            0.9648449420928955,
+            0.03495461866259575
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1785.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999469518661499,
+            5.3511430451180786e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1786.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999908208847046,
+            9.413308362127282e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1787.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            3.396935426280834e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1788.CSV",
+        "gesture": 0,
+        "results": [
+            0.7660387754440308,
+            0.23813766241073608
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1789.CSV",
+        "gesture": 0,
+        "results": [
+            0.7185397148132324,
+            0.28862911462783813
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1790.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.225225952974142e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1791.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            7.983478322870496e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1792.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.52952875207302e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1793.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999960660934448,
+            3.7009019706601975e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1794.CSV",
+        "gesture": 0,
+        "results": [
+            0.9801855087280273,
+            0.01835344173014164
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1795.CSV",
+        "gesture": 0,
+        "results": [
+            0.9994706511497498,
+            0.0005045850411988795
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1796.CSV",
+        "gesture": 0,
+        "results": [
+            0.0007768343202769756,
+            0.999233603477478
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1797.CSV",
+        "gesture": 0,
+        "results": [
+            0.9930632710456848,
+            0.007169187068939209
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1798.CSV",
+        "gesture": 0,
+        "results": [
+            0.06747674942016602,
+            0.9339074492454529
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1799.CSV",
+        "gesture": 0,
+        "results": [
+            0.9863408803939819,
+            0.0141421128064394
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1800.CSV",
+        "gesture": 0,
+        "results": [
+            0.9978551268577576,
+            0.001884590950794518
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1801.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999340772628784,
+            6.826795288361609e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1802.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997709393501282,
+            0.0002276761515531689
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1803.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998698234558105,
+            0.0001296035188715905
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1804.CSV",
+        "gesture": 0,
+        "results": [
+            0.17623645067214966,
+            0.8272953629493713
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1805.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999724626541138,
+            2.7201536795473658e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1806.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999841451644897,
+            1.6268288163701072e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1807.CSV",
+        "gesture": 0,
+        "results": [
+            0.999998927116394,
+            1.0871054882954923e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1808.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            7.32626759258892e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1809.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.0631986664152464e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1810.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.999787168140756e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1811.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.330834414365768e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1812.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.698476135407304e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1813.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.9166039028361013e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1814.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999891519546509,
+            9.757160114531871e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1815.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999980926513672,
+            1.7779674408302526e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1816.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.46340449652871e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1817.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999529123306274,
+            4.835089930566028e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1818.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            4.328500722294848e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1819.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999994039535522,
+            6.15552494309668e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1820.CSV",
+        "gesture": 0,
+        "results": [
+            0.9982457160949707,
+            0.0016082152724266052
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1821.CSV",
+        "gesture": 0,
+        "results": [
+            0.0029015156906098127,
+            0.9970223307609558
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1822.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.773755826661727e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1823.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.6836186051149014e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1824.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997463822364807,
+            0.0002410456509096548
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1825.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.304562478158914e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1826.CSV",
+        "gesture": 0,
+        "results": [
+            0.9993740916252136,
+            0.0005870833992958069
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1827.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999992847442627,
+            6.786145831938484e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1828.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            7.09503744644735e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1829.CSV",
+        "gesture": 0,
+        "results": [
+            0.9995037317276001,
+            0.0004191189946141094
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1830.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.2403424420881493e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1831.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            6.722050471807961e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1832.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999979734420776,
+            2.0382860839163186e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1833.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            7.410902469473513e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1834.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999992847442627,
+            7.363650524894183e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1835.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            3.176196514687035e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1836.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.7223060755355846e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1837.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            8.198444589879728e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1838.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998446702957153,
+            0.00015954958507791162
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1839.CSV",
+        "gesture": 0,
+        "results": [
+            0.9652347564697266,
+            0.03299453482031822
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1840.CSV",
+        "gesture": 0,
+        "results": [
+            0.7716114521026611,
+            0.2332441210746765
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1841.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998615980148315,
+            0.0001352442632196471
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1842.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999980926513672,
+            1.7899976683111163e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1843.CSV",
+        "gesture": 0,
+        "results": [
+            0.2667474150657654,
+            0.7360355854034424
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1844.CSV",
+        "gesture": 0,
+        "results": [
+            0.999996542930603,
+            3.43161673299619e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1845.CSV",
+        "gesture": 0,
+        "results": [
+            0.9990394711494446,
+            0.0009729688754305243
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1846.CSV",
+        "gesture": 0,
+        "results": [
+            0.999984622001648,
+            1.5316974895540625e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1847.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999995231628418,
+            4.308156462684565e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1848.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997063279151917,
+            0.0002978726988658309
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1849.CSV",
+        "gesture": 0,
+        "results": [
+            0.96549391746521,
+            0.03283130005002022
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1850.CSV",
+        "gesture": 0,
+        "results": [
+            0.999988317489624,
+            1.0817610927915666e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1851.CSV",
+        "gesture": 0,
+        "results": [
+            0.9775574207305908,
+            0.022675877436995506
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1852.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999879598617554,
+            1.2178509678051341e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1853.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999332427978516,
+            6.747342558810487e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1854.CSV",
+        "gesture": 0,
+        "results": [
+            0.999984860420227,
+            1.5490741134271957e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1855.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.8556390908061076e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1856.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999973773956299,
+            2.6403388346807333e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1857.CSV",
+        "gesture": 0,
+        "results": [
+            0.9993890523910522,
+            0.0004053650773130357
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1858.CSV",
+        "gesture": 0,
+        "results": [
+            0.9020422697067261,
+            0.0975317731499672
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1859.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998353719711304,
+            0.00016448975657112896
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1860.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.019275223754448e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1861.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            3.129695755887951e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1862.CSV",
+        "gesture": 0,
+        "results": [
+            0.9827463626861572,
+            0.01755473203957081
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1863.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999966621398926,
+            3.4397817216813564e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1864.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999978542327881,
+            2.2146955416246783e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1865.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996898174285889,
+            0.0003052866377402097
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1866.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.4057221164875955e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1867.CSV",
+        "gesture": 0,
+        "results": [
+            0.998315691947937,
+            0.0016534398309886456
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1868.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999715089797974,
+            2.8386397389112972e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1869.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999986886978149,
+            1.255584948012256e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1870.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999986886978149,
+            1.3415383364190347e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1871.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999979734420776,
+            2.046329882432474e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1872.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            8.560097342069639e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1873.CSV",
+        "gesture": 0,
+        "results": [
+            0.9848971962928772,
+            0.015400226227939129
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1874.CSV",
+        "gesture": 0,
+        "results": [
+            1.4236906054065912e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1875.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999731779098511,
+            2.745671008597128e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1876.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.136753079502341e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1877.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.539502912985881e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1878.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.9327115786136346e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1879.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996902942657471,
+            0.00031533135916106403
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1880.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.8163025689309507e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1881.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.4489593281914495e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1882.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.7264906776736098e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1883.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.544109444282185e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1884.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999990463256836,
+            9.348807452624897e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1885.CSV",
+        "gesture": 0,
+        "results": [
+            0.0036021496634930372,
+            0.9964663982391357
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1886.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.260649705794094e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1887.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999802112579346,
+            1.8479298887541518e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1888.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            5.142739123442652e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1889.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999995231628418,
+            5.103460125610582e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1890.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.079032898587684e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1891.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999945163726807,
+            5.6960375331982505e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1892.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998167157173157,
+            0.00019099465862382203
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1893.CSV",
+        "gesture": 0,
+        "results": [
+            0.9880412817001343,
+            0.011851439252495766
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1894.CSV",
+        "gesture": 0,
+        "results": [
+            0.9723108410835266,
+            0.026857495307922363
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1895.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999954700469971,
+            3.849025688396068e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1896.CSV",
+        "gesture": 0,
+        "results": [
+            0.7661855220794678,
+            0.2242840826511383
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1897.CSV",
+        "gesture": 0,
+        "results": [
+            0.14210276305675507,
+            0.8596389889717102
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1898.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999934434890747,
+            5.4997326515149325e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1899.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.7036472232945243e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1900.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998841285705566,
+            0.00011730909318430349
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1901.CSV",
+        "gesture": 0,
+        "results": [
+            0.2788993716239929,
+            0.725283145904541
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1902.CSV",
+        "gesture": 0,
+        "results": [
+            0.999954342842102,
+            4.649487527785823e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1903.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            7.889872932764774e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1904.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.4371410372859827e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1905.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.3639051665848001e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1906.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            8.045637045484e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1907.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999955892562866,
+            4.412636826600647e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1908.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.8773937071614455e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1909.CSV",
+        "gesture": 0,
+        "results": [
+            0.999313473701477,
+            0.0006932330434210598
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1910.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.3052496583565443e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1911.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.2900665424808722e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1912.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.785152292654857e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1913.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            7.654583811245175e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1914.CSV",
+        "gesture": 0,
+        "results": [
+            0.999913215637207,
+            8.811400039121509e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1915.CSV",
+        "gesture": 0,
+        "results": [
+            1.1164007673869492e-06,
+            0.999998927116394
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1916.CSV",
+        "gesture": 0,
+        "results": [
+            0.9659373760223389,
+            0.03371645137667656
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1917.CSV",
+        "gesture": 0,
+        "results": [
+            0.9462961554527283,
+            0.05434180423617363
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1918.CSV",
+        "gesture": 0,
+        "results": [
+            5.90396775805857e-05,
+            0.9999396800994873
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1919.CSV",
+        "gesture": 0,
+        "results": [
+            0.8790433406829834,
+            0.12433778494596481
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1920.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999996423721313,
+            3.8814420122434967e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1921.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            9.555782298775739e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1922.CSV",
+        "gesture": 0,
+        "results": [
+            0.9685245156288147,
+            0.0319957360625267
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1923.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997647404670715,
+            0.00023024773690849543
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1924.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999977350234985,
+            1.9874723875545897e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1925.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999939203262329,
+            5.929982307861792e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1926.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997279047966003,
+            0.00027839065296575427
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1927.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.01163104559987e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1928.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.0189748422817502e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1929.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.7019921472183341e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1930.CSV",
+        "gesture": 0,
+        "results": [
+            0.9421886801719666,
+            0.05746383219957352
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1931.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.887235422439517e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1932.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998503923416138,
+            0.00014023399853613228
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1933.CSV",
+        "gesture": 0,
+        "results": [
+            0.9991483688354492,
+            0.0008649179944768548
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1934.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999985694885254,
+            1.480092237216013e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1935.CSV",
+        "gesture": 0,
+        "results": [
+            0.010403198190033436,
+            0.9892429113388062
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1936.CSV",
+        "gesture": 0,
+        "results": [
+            0.9948843121528625,
+            0.005276231095194817
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1937.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            6.589903622788995e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1938.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.3865376341802857e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1939.CSV",
+        "gesture": 0,
+        "results": [
+            0.9982876181602478,
+            0.0016212589107453823
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1940.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.0924812698931419e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1941.CSV",
+        "gesture": 0,
+        "results": [
+            0.030894871801137924,
+            0.970198392868042
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1942.CSV",
+        "gesture": 0,
+        "results": [
+            0.999975323677063,
+            2.5471190383541398e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1943.CSV",
+        "gesture": 0,
+        "results": [
+            0.9899566769599915,
+            0.00880430731922388
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1944.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999971389770508,
+            2.818595021381043e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1945.CSV",
+        "gesture": 0,
+        "results": [
+            0.7114721536636353,
+            0.2826603651046753
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1946.CSV",
+        "gesture": 0,
+        "results": [
+            0.999970555305481,
+            3.064819611608982e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1947.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998834133148193,
+            0.00011917667870875448
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1948.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            9.790566934952949e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1949.CSV",
+        "gesture": 0,
+        "results": [
+            0.999992847442627,
+            7.340327556448756e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1950.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.4610847642870795e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1951.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999914169311523,
+            8.914190402720124e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1952.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.292182442799941e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1953.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999951124191284,
+            4.9492455218569376e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1954.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999994039535522,
+            6.522265607600275e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1955.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999884366989136,
+            1.0605356692394707e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1956.CSV",
+        "gesture": 0,
+        "results": [
+            0.9882209897041321,
+            0.01129884459078312
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1957.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999912977218628,
+            8.772123692324385e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1958.CSV",
+        "gesture": 0,
+        "results": [
+            0.7942278981208801,
+            0.20752498507499695
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1959.CSV",
+        "gesture": 0,
+        "results": [
+            0.9995463490486145,
+            0.0004407810338307172
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1960.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            4.850524981669935e-10
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1961.CSV",
+        "gesture": 0,
+        "results": [
+            0.999982476234436,
+            1.7630394722800702e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1962.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            5.3504514596625086e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1963.CSV",
+        "gesture": 0,
+        "results": [
+            0.97773277759552,
+            0.02236921340227127
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1964.CSV",
+        "gesture": 0,
+        "results": [
+            0.9996610879898071,
+            0.00035457947524264455
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1965.CSV",
+        "gesture": 0,
+        "results": [
+            0.9570915699005127,
+            0.04513655602931976
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1966.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999853372573853,
+            1.5245683243847452e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1967.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999990463256836,
+            6.883959144943219e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1968.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999985694885254,
+            1.4585748431272805e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1969.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999963045120239,
+            3.941170234611491e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1970.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            6.284311382387386e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1971.CSV",
+        "gesture": 0,
+        "results": [
+            0.9902380108833313,
+            0.009834720753133297
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1972.CSV",
+        "gesture": 0,
+        "results": [
+            0.99883633852005,
+            0.0011697609443217516
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1973.CSV",
+        "gesture": 0,
+        "results": [
+            0.999988317489624,
+            1.1722680028469767e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1974.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999995231628418,
+            5.258185069578758e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1975.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999967813491821,
+            3.3613398500165204e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1976.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999077320098877,
+            8.615668775746599e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1977.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998819828033447,
+            0.00011876225471496582
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1978.CSV",
+        "gesture": 0,
+        "results": [
+            0.99654620885849,
+            0.003530847607180476
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1979.CSV",
+        "gesture": 0,
+        "results": [
+            0.9998766183853149,
+            0.00011972922220593318
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1980.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999998807907104,
+            1.7250758332920668e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1981.CSV",
+        "gesture": 0,
+        "results": [
+            0.9986525177955627,
+            0.001380265923216939
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1982.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.5632060978987283e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1983.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999902248382568,
+            9.626212886360008e-06
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1984.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999994039535522,
+            5.878260367353505e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1985.CSV",
+        "gesture": 0,
+        "results": [
+            0.9956116080284119,
+            0.00445012841373682
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1986.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.4688463778611549e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1987.CSV",
+        "gesture": 0,
+        "results": [
+            0.9997662901878357,
+            0.00023361202329397202
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1988.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            1.0689765517213345e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1989.CSV",
+        "gesture": 0,
+        "results": [
+            0.8419166803359985,
+            0.1618489772081375
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1990.CSV",
+        "gesture": 0,
+        "results": [
+            0.32347893714904785,
+            0.6785575747489929
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1991.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.3761402562504372e-09
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1992.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999995231628418,
+            5.262153308649431e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1993.CSV",
+        "gesture": 0,
+        "results": [
+            0.9999991655349731,
+            8.21942307993595e-07
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1994.CSV",
+        "gesture": 0,
+        "results": [
+            0.035090185701847076,
+            0.9659666419029236
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1995.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            3.688188598971465e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1996.CSV",
+        "gesture": 0,
+        "results": [
+            1.0,
+            2.9376437282735424e-08
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1997.CSV",
+        "gesture": 0,
+        "results": [
+            0.9990979433059692,
+            0.0008591195219196379
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1998.CSV",
+        "gesture": 0,
+        "results": [
+            0.999985933303833,
+            1.4124677363724913e-05
+        ]
+    },
+    {
+        "filename": "Gesture1_Example1999.CSV",
+        "gesture": 0,
+        "results": [
+            0.9894166588783264,
+            0.010795988142490387
+        ]
+    },
+    {
+        "filename": "Gesture1_Example2000.CSV",
+        "gesture": 0,
+        "results": [
+            0.999935507774353,
+            6.242862582439557e-05
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1501.CSV",
+        "gesture": 1,
+        "results": [
+            0.1790970116853714,
+            0.8265998363494873
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1502.CSV",
+        "gesture": 1,
+        "results": [
+            3.7886043173784856e-06,
+            0.9999963045120239
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1503.CSV",
+        "gesture": 1,
+        "results": [
+            0.004313737619668245,
+            0.9958617687225342
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1504.CSV",
+        "gesture": 1,
+        "results": [
+            8.320129585293046e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1505.CSV",
+        "gesture": 1,
+        "results": [
+            1.3836097423336469e-06,
+            0.9999986886978149
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1506.CSV",
+        "gesture": 1,
+        "results": [
+            0.9898695349693298,
+            0.010553576052188873
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1507.CSV",
+        "gesture": 1,
+        "results": [
+            2.827805292326957e-05,
+            0.9999721050262451
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1508.CSV",
+        "gesture": 1,
+        "results": [
+            0.9637594819068909,
+            0.03704475611448288
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1509.CSV",
+        "gesture": 1,
+        "results": [
+            1.7292973097937647e-06,
+            0.9999983310699463
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1510.CSV",
+        "gesture": 1,
+        "results": [
+            3.342840273035108e-06,
+            0.9999967813491821
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1511.CSV",
+        "gesture": 1,
+        "results": [
+            1.615752687200711e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1512.CSV",
+        "gesture": 1,
+        "results": [
+            8.180977673077905e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1513.CSV",
+        "gesture": 1,
+        "results": [
+            8.503637238810313e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1514.CSV",
+        "gesture": 1,
+        "results": [
+            4.0806808101478964e-05,
+            0.9999611377716064
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1515.CSV",
+        "gesture": 1,
+        "results": [
+            0.0009015420801006258,
+            0.9990949630737305
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1516.CSV",
+        "gesture": 1,
+        "results": [
+            2.426969558655401e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1517.CSV",
+        "gesture": 1,
+        "results": [
+            9.529650810691237e-07,
+            0.9999990463256836
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1518.CSV",
+        "gesture": 1,
+        "results": [
+            0.0002189811784774065,
+            0.9997581839561462
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1519.CSV",
+        "gesture": 1,
+        "results": [
+            0.36588722467422485,
+            0.6371190547943115
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1520.CSV",
+        "gesture": 1,
+        "results": [
+            5.4963393836260366e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1521.CSV",
+        "gesture": 1,
+        "results": [
+            5.255633150902383e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1522.CSV",
+        "gesture": 1,
+        "results": [
+            9.228647104464471e-05,
+            0.9999109506607056
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1523.CSV",
+        "gesture": 1,
+        "results": [
+            1.613817635082171e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1524.CSV",
+        "gesture": 1,
+        "results": [
+            1.0050027867691824e-06,
+            0.9999990463256836
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1525.CSV",
+        "gesture": 1,
+        "results": [
+            0.12146909534931183,
+            0.8718074560165405
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1526.CSV",
+        "gesture": 1,
+        "results": [
+            0.0022096973843872547,
+            0.9978556036949158
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1527.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999970197677612,
+            3.1101762942853384e-06
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1528.CSV",
+        "gesture": 1,
+        "results": [
+            2.214133201050572e-05,
+            0.9999786615371704
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1529.CSV",
+        "gesture": 1,
+        "results": [
+            0.12711761891841888,
+            0.8750737309455872
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1530.CSV",
+        "gesture": 1,
+        "results": [
+            0.9771321415901184,
+            0.022776102647185326
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1531.CSV",
+        "gesture": 1,
+        "results": [
+            5.480865894469389e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1532.CSV",
+        "gesture": 1,
+        "results": [
+            0.00016539820353500545,
+            0.999834418296814
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1533.CSV",
+        "gesture": 1,
+        "results": [
+            0.14737336337566376,
+            0.8569514155387878
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1534.CSV",
+        "gesture": 1,
+        "results": [
+            0.008062083274126053,
+            0.9922731518745422
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1535.CSV",
+        "gesture": 1,
+        "results": [
+            3.341391052735787e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1536.CSV",
+        "gesture": 1,
+        "results": [
+            1.3195206349791988e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1537.CSV",
+        "gesture": 1,
+        "results": [
+            8.643590990686789e-05,
+            0.9999154806137085
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1538.CSV",
+        "gesture": 1,
+        "results": [
+            1.8229871784569696e-05,
+            0.9999822378158569
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1539.CSV",
+        "gesture": 1,
+        "results": [
+            5.464451668935055e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1540.CSV",
+        "gesture": 1,
+        "results": [
+            1.0235768899136133e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1541.CSV",
+        "gesture": 1,
+        "results": [
+            0.9147829413414001,
+            0.08484136313199997
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1542.CSV",
+        "gesture": 1,
+        "results": [
+            4.394409103269936e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1543.CSV",
+        "gesture": 1,
+        "results": [
+            9.420271567250893e-07,
+            0.9999990463256836
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1544.CSV",
+        "gesture": 1,
+        "results": [
+            0.00011987557081738487,
+            0.9998886585235596
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1545.CSV",
+        "gesture": 1,
+        "results": [
+            6.258461837660434e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1546.CSV",
+        "gesture": 1,
+        "results": [
+            0.00017249440134037286,
+            0.999832272529602
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1547.CSV",
+        "gesture": 1,
+        "results": [
+            3.3549567888258025e-05,
+            0.999967098236084
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1548.CSV",
+        "gesture": 1,
+        "results": [
+            8.5933465898691e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1549.CSV",
+        "gesture": 1,
+        "results": [
+            2.436407464667667e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1550.CSV",
+        "gesture": 1,
+        "results": [
+            3.398677606014644e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1551.CSV",
+        "gesture": 1,
+        "results": [
+            3.875131824315758e-06,
+            0.9999961853027344
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1552.CSV",
+        "gesture": 1,
+        "results": [
+            6.951840703095513e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1553.CSV",
+        "gesture": 1,
+        "results": [
+            0.05755786970257759,
+            0.9434866905212402
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1554.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999996423721313,
+            3.6010555959364865e-07
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1555.CSV",
+        "gesture": 1,
+        "results": [
+            0.0018610602710396051,
+            0.9982650876045227
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1556.CSV",
+        "gesture": 1,
+        "results": [
+            9.429211786482483e-06,
+            0.9999905824661255
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1557.CSV",
+        "gesture": 1,
+        "results": [
+            6.588577861066369e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1558.CSV",
+        "gesture": 1,
+        "results": [
+            1.783854619574754e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1559.CSV",
+        "gesture": 1,
+        "results": [
+            1.9565045477065723e-06,
+            0.9999980926513672
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1560.CSV",
+        "gesture": 1,
+        "results": [
+            2.233990926470142e-06,
+            0.9999978542327881
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1561.CSV",
+        "gesture": 1,
+        "results": [
+            6.265380761760753e-06,
+            0.9999936819076538
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1562.CSV",
+        "gesture": 1,
+        "results": [
+            0.006738054100424051,
+            0.993503749370575
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1563.CSV",
+        "gesture": 1,
+        "results": [
+            0.01785092055797577,
+            0.9824616312980652
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1564.CSV",
+        "gesture": 1,
+        "results": [
+            6.769050031607549e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1565.CSV",
+        "gesture": 1,
+        "results": [
+            0.00013109603605698794,
+            0.9998722076416016
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1566.CSV",
+        "gesture": 1,
+        "results": [
+            6.414806463794775e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1567.CSV",
+        "gesture": 1,
+        "results": [
+            0.0009761112742125988,
+            0.9990382194519043
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1568.CSV",
+        "gesture": 1,
+        "results": [
+            7.638642784968397e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1569.CSV",
+        "gesture": 1,
+        "results": [
+            0.6086996793746948,
+            0.3864985704421997
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1570.CSV",
+        "gesture": 1,
+        "results": [
+            4.27453166196301e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1571.CSV",
+        "gesture": 1,
+        "results": [
+            6.549269073730102e-06,
+            0.9999936819076538
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1572.CSV",
+        "gesture": 1,
+        "results": [
+            9.586640317138517e-07,
+            0.9999990463256836
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1573.CSV",
+        "gesture": 1,
+        "results": [
+            1.5093570837620973e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1574.CSV",
+        "gesture": 1,
+        "results": [
+            2.360640110055101e-06,
+            0.999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1575.CSV",
+        "gesture": 1,
+        "results": [
+            5.091708771942649e-06,
+            0.9999951124191284
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1576.CSV",
+        "gesture": 1,
+        "results": [
+            2.59417323178468e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1577.CSV",
+        "gesture": 1,
+        "results": [
+            3.747824393940391e-06,
+            0.9999961853027344
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1578.CSV",
+        "gesture": 1,
+        "results": [
+            3.3016014366893387e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1579.CSV",
+        "gesture": 1,
+        "results": [
+            3.2319942988578987e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1580.CSV",
+        "gesture": 1,
+        "results": [
+            1.6403285674204682e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1581.CSV",
+        "gesture": 1,
+        "results": [
+            6.116995621141541e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1582.CSV",
+        "gesture": 1,
+        "results": [
+            7.588961352666956e-07,
+            0.9999992847442627
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1583.CSV",
+        "gesture": 1,
+        "results": [
+            3.6585795726296055e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1584.CSV",
+        "gesture": 1,
+        "results": [
+            0.9998565912246704,
+            0.00014823667879682034
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1585.CSV",
+        "gesture": 1,
+        "results": [
+            0.0006211838335730135,
+            0.999382734298706
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1586.CSV",
+        "gesture": 1,
+        "results": [
+            4.3046489395237586e-07,
+            0.9999995231628418
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1587.CSV",
+        "gesture": 1,
+        "results": [
+            1.902783708374045e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1588.CSV",
+        "gesture": 1,
+        "results": [
+            8.832110864887e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1589.CSV",
+        "gesture": 1,
+        "results": [
+            4.2802383859452675e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1590.CSV",
+        "gesture": 1,
+        "results": [
+            1.6075825897132745e-06,
+            0.9999984502792358
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1591.CSV",
+        "gesture": 1,
+        "results": [
+            1.1932318466634229e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1592.CSV",
+        "gesture": 1,
+        "results": [
+            5.1879193051718175e-05,
+            0.9999480247497559
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1593.CSV",
+        "gesture": 1,
+        "results": [
+            0.002047960413619876,
+            0.9979236125946045
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1594.CSV",
+        "gesture": 1,
+        "results": [
+            2.751663896738421e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1595.CSV",
+        "gesture": 1,
+        "results": [
+            2.355607193749165e-06,
+            0.9999977350234985
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1596.CSV",
+        "gesture": 1,
+        "results": [
+            4.0251547943626065e-06,
+            0.9999959468841553
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1597.CSV",
+        "gesture": 1,
+        "results": [
+            0.5612815618515015,
+            0.4408012330532074
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1598.CSV",
+        "gesture": 1,
+        "results": [
+            3.2767354696261464e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1599.CSV",
+        "gesture": 1,
+        "results": [
+            7.790051936851228e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1600.CSV",
+        "gesture": 1,
+        "results": [
+            6.679854447355638e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1601.CSV",
+        "gesture": 1,
+        "results": [
+            0.0003190097922924906,
+            0.9996814727783203
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1602.CSV",
+        "gesture": 1,
+        "results": [
+            2.103498486505373e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1603.CSV",
+        "gesture": 1,
+        "results": [
+            0.001064804382622242,
+            0.9989551305770874
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1604.CSV",
+        "gesture": 1,
+        "results": [
+            6.523090512189356e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1605.CSV",
+        "gesture": 1,
+        "results": [
+            0.00030920442077331245,
+            0.9996875524520874
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1606.CSV",
+        "gesture": 1,
+        "results": [
+            0.01582578755915165,
+            0.9843435287475586
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1607.CSV",
+        "gesture": 1,
+        "results": [
+            0.047469232231378555,
+            0.9444077014923096
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1608.CSV",
+        "gesture": 1,
+        "results": [
+            1.6554029571125284e-05,
+            0.9999840259552002
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1609.CSV",
+        "gesture": 1,
+        "results": [
+            1.0443555709116481e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1610.CSV",
+        "gesture": 1,
+        "results": [
+            0.6279885172843933,
+            0.34966596961021423
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1611.CSV",
+        "gesture": 1,
+        "results": [
+            2.723723127928679e-06,
+            0.9999972581863403
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1612.CSV",
+        "gesture": 1,
+        "results": [
+            1.4653242033091374e-06,
+            0.9999984502792358
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1613.CSV",
+        "gesture": 1,
+        "results": [
+            2.754953493422363e-05,
+            0.9999732971191406
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1614.CSV",
+        "gesture": 1,
+        "results": [
+            5.07076151734509e-07,
+            0.9999995231628418
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1615.CSV",
+        "gesture": 1,
+        "results": [
+            6.311915967671666e-07,
+            0.9999994039535522
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1616.CSV",
+        "gesture": 1,
+        "results": [
+            0.0010272087529301643,
+            0.9989626407623291
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1617.CSV",
+        "gesture": 1,
+        "results": [
+            1.6235273960774066e-06,
+            0.9999983310699463
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1618.CSV",
+        "gesture": 1,
+        "results": [
+            0.00022724630252923816,
+            0.9997749924659729
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1619.CSV",
+        "gesture": 1,
+        "results": [
+            4.31622720498126e-06,
+            0.9999955892562866
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1620.CSV",
+        "gesture": 1,
+        "results": [
+            3.414571025928126e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1621.CSV",
+        "gesture": 1,
+        "results": [
+            1.3425391216514981e-06,
+            0.9999985694885254
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1622.CSV",
+        "gesture": 1,
+        "results": [
+            1.4233172862532228e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1623.CSV",
+        "gesture": 1,
+        "results": [
+            0.0010425419313833117,
+            0.9989720582962036
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1624.CSV",
+        "gesture": 1,
+        "results": [
+            0.10966351628303528,
+            0.8924283385276794
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1625.CSV",
+        "gesture": 1,
+        "results": [
+            4.32399431815611e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1626.CSV",
+        "gesture": 1,
+        "results": [
+            0.9526538848876953,
+            0.048345897346735
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1627.CSV",
+        "gesture": 1,
+        "results": [
+            1.0735619980550837e-05,
+            0.9999896287918091
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1628.CSV",
+        "gesture": 1,
+        "results": [
+            2.346349674553494e-06,
+            0.9999977350234985
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1629.CSV",
+        "gesture": 1,
+        "results": [
+            3.303984286162631e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1630.CSV",
+        "gesture": 1,
+        "results": [
+            5.199967745284084e-06,
+            0.9999948740005493
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1631.CSV",
+        "gesture": 1,
+        "results": [
+            0.018097182735800743,
+            0.9823554158210754
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1632.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999294281005859,
+            7.339385047089309e-05
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1633.CSV",
+        "gesture": 1,
+        "results": [
+            5.423142397376068e-07,
+            0.9999994039535522
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1634.CSV",
+        "gesture": 1,
+        "results": [
+            0.15200835466384888,
+            0.8509352207183838
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1635.CSV",
+        "gesture": 1,
+        "results": [
+            5.948793386778561e-06,
+            0.9999945163726807
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1636.CSV",
+        "gesture": 1,
+        "results": [
+            3.1398491445733256e-11,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1637.CSV",
+        "gesture": 1,
+        "results": [
+            2.9488887776096817e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1638.CSV",
+        "gesture": 1,
+        "results": [
+            0.1330231875181198,
+            0.8645434379577637
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1639.CSV",
+        "gesture": 1,
+        "results": [
+            9.2195309164822e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1640.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999772310256958,
+            2.3072776457411237e-05
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1641.CSV",
+        "gesture": 1,
+        "results": [
+            6.8436025735252315e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1642.CSV",
+        "gesture": 1,
+        "results": [
+            7.807061308540142e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1643.CSV",
+        "gesture": 1,
+        "results": [
+            4.80817696768554e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1644.CSV",
+        "gesture": 1,
+        "results": [
+            3.456077683949843e-05,
+            0.9999651908874512
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1645.CSV",
+        "gesture": 1,
+        "results": [
+            0.0001831886766012758,
+            0.9998214840888977
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1646.CSV",
+        "gesture": 1,
+        "results": [
+            0.9933191537857056,
+            0.007489901501685381
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1647.CSV",
+        "gesture": 1,
+        "results": [
+            6.049352663239915e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1648.CSV",
+        "gesture": 1,
+        "results": [
+            0.00011931869812542573,
+            0.9998857975006104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1649.CSV",
+        "gesture": 1,
+        "results": [
+            0.2947573661804199,
+            0.7111754417419434
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1650.CSV",
+        "gesture": 1,
+        "results": [
+            4.154928683419712e-05,
+            0.9999586343765259
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1651.CSV",
+        "gesture": 1,
+        "results": [
+            2.368815103181987e-06,
+            0.999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1652.CSV",
+        "gesture": 1,
+        "results": [
+            2.7692154347391806e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1653.CSV",
+        "gesture": 1,
+        "results": [
+            2.1723261411921158e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1654.CSV",
+        "gesture": 1,
+        "results": [
+            3.780854385126986e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1655.CSV",
+        "gesture": 1,
+        "results": [
+            2.4283417943138375e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1656.CSV",
+        "gesture": 1,
+        "results": [
+            4.264556423549948e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1657.CSV",
+        "gesture": 1,
+        "results": [
+            9.964683300722754e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1658.CSV",
+        "gesture": 1,
+        "results": [
+            2.7025122140145186e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1659.CSV",
+        "gesture": 1,
+        "results": [
+            2.3784819447314476e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1660.CSV",
+        "gesture": 1,
+        "results": [
+            2.983583499371889e-06,
+            0.9999971389770508
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1661.CSV",
+        "gesture": 1,
+        "results": [
+            8.777739822107833e-06,
+            0.9999912977218628
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1662.CSV",
+        "gesture": 1,
+        "results": [
+            5.307199124615636e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1663.CSV",
+        "gesture": 1,
+        "results": [
+            1.0300480425939895e-05,
+            0.99998939037323
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1664.CSV",
+        "gesture": 1,
+        "results": [
+            3.7203637504035214e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1665.CSV",
+        "gesture": 1,
+        "results": [
+            0.39563971757888794,
+            0.6053488254547119
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1666.CSV",
+        "gesture": 1,
+        "results": [
+            2.0285957802457233e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1667.CSV",
+        "gesture": 1,
+        "results": [
+            0.04060693085193634,
+            0.960005521774292
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1668.CSV",
+        "gesture": 1,
+        "results": [
+            8.878659940592115e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1669.CSV",
+        "gesture": 1,
+        "results": [
+            0.0057724639773368835,
+            0.9945265650749207
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1670.CSV",
+        "gesture": 1,
+        "results": [
+            1.056262590282131e-06,
+            0.999998927116394
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1671.CSV",
+        "gesture": 1,
+        "results": [
+            0.007978074252605438,
+            0.9921703934669495
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1672.CSV",
+        "gesture": 1,
+        "results": [
+            7.622807629559247e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1673.CSV",
+        "gesture": 1,
+        "results": [
+            0.0015778526430949569,
+            0.9984251260757446
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1674.CSV",
+        "gesture": 1,
+        "results": [
+            2.152228972818193e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1675.CSV",
+        "gesture": 1,
+        "results": [
+            2.3718411057416233e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1676.CSV",
+        "gesture": 1,
+        "results": [
+            8.941518636618184e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1677.CSV",
+        "gesture": 1,
+        "results": [
+            3.7427962951142035e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1678.CSV",
+        "gesture": 1,
+        "results": [
+            1.112349650611577e-06,
+            0.999998927116394
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1679.CSV",
+        "gesture": 1,
+        "results": [
+            0.9079708456993103,
+            0.0930883139371872
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1680.CSV",
+        "gesture": 1,
+        "results": [
+            3.4811487239494454e-06,
+            0.9999966621398926
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1681.CSV",
+        "gesture": 1,
+        "results": [
+            2.4337392460438423e-05,
+            0.9999758005142212
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1682.CSV",
+        "gesture": 1,
+        "results": [
+            4.113951845852171e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1683.CSV",
+        "gesture": 1,
+        "results": [
+            1.6263538782368414e-06,
+            0.9999984502792358
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1684.CSV",
+        "gesture": 1,
+        "results": [
+            2.5423890770426283e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1685.CSV",
+        "gesture": 1,
+        "results": [
+            5.473350756801665e-05,
+            0.9999434947967529
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1686.CSV",
+        "gesture": 1,
+        "results": [
+            0.9652615189552307,
+            0.03538830950856209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1687.CSV",
+        "gesture": 1,
+        "results": [
+            1.0718003977672197e-05,
+            0.9999895095825195
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1688.CSV",
+        "gesture": 1,
+        "results": [
+            0.14890161156654358,
+            0.8515216708183289
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1689.CSV",
+        "gesture": 1,
+        "results": [
+            4.460338209888448e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1690.CSV",
+        "gesture": 1,
+        "results": [
+            3.2635532988933846e-05,
+            0.999966025352478
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1691.CSV",
+        "gesture": 1,
+        "results": [
+            1.8799057670548791e-06,
+            0.9999982118606567
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1692.CSV",
+        "gesture": 1,
+        "results": [
+            4.139515681345074e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1693.CSV",
+        "gesture": 1,
+        "results": [
+            4.417594823280524e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1694.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999761581420898,
+            2.515699998184573e-05
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1695.CSV",
+        "gesture": 1,
+        "results": [
+            5.4057283094266495e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1696.CSV",
+        "gesture": 1,
+        "results": [
+            0.9988453388214111,
+            0.001164979999884963
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1697.CSV",
+        "gesture": 1,
+        "results": [
+            8.299729792327071e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1698.CSV",
+        "gesture": 1,
+        "results": [
+            1.274680361262881e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1699.CSV",
+        "gesture": 1,
+        "results": [
+            3.3293754420071764e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1700.CSV",
+        "gesture": 1,
+        "results": [
+            1.3842134549690854e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1701.CSV",
+        "gesture": 1,
+        "results": [
+            0.00024374568602070212,
+            0.9997606873512268
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1702.CSV",
+        "gesture": 1,
+        "results": [
+            2.941195089078974e-05,
+            0.9999716281890869
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1703.CSV",
+        "gesture": 1,
+        "results": [
+            3.197619591333023e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1704.CSV",
+        "gesture": 1,
+        "results": [
+            2.2331103632922122e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1705.CSV",
+        "gesture": 1,
+        "results": [
+            7.00532154951361e-07,
+            0.9999992847442627
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1706.CSV",
+        "gesture": 1,
+        "results": [
+            1.2689746426985948e-06,
+            0.9999986886978149
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1707.CSV",
+        "gesture": 1,
+        "results": [
+            7.844794708944391e-06,
+            0.9999924898147583
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1708.CSV",
+        "gesture": 1,
+        "results": [
+            2.0743764252983965e-06,
+            0.9999979734420776
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1709.CSV",
+        "gesture": 1,
+        "results": [
+            4.547052594716661e-05,
+            0.9999561309814453
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1710.CSV",
+        "gesture": 1,
+        "results": [
+            0.005556286778301001,
+            0.9946963787078857
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1711.CSV",
+        "gesture": 1,
+        "results": [
+            9.081647656117298e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1712.CSV",
+        "gesture": 1,
+        "results": [
+            1.8700635706636604e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1713.CSV",
+        "gesture": 1,
+        "results": [
+            0.999998927116394,
+            1.0459708619237063e-06
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1714.CSV",
+        "gesture": 1,
+        "results": [
+            1.9152939234601263e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1715.CSV",
+        "gesture": 1,
+        "results": [
+            0.5319268703460693,
+            0.46943604946136475
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1716.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999998807907104,
+            6.674574848375414e-08
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1717.CSV",
+        "gesture": 1,
+        "results": [
+            1.0,
+            6.353379156109895e-09
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1718.CSV",
+        "gesture": 1,
+        "results": [
+            1.7288195319764554e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1719.CSV",
+        "gesture": 1,
+        "results": [
+            1.2359817613827317e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1720.CSV",
+        "gesture": 1,
+        "results": [
+            8.946469876036645e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1721.CSV",
+        "gesture": 1,
+        "results": [
+            0.9861059188842773,
+            0.014488865621387959
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1722.CSV",
+        "gesture": 1,
+        "results": [
+            3.9051074054441415e-06,
+            0.9999961853027344
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1723.CSV",
+        "gesture": 1,
+        "results": [
+            0.9572008848190308,
+            0.043244216591119766
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1724.CSV",
+        "gesture": 1,
+        "results": [
+            9.608638151803461e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1725.CSV",
+        "gesture": 1,
+        "results": [
+            0.028520110994577408,
+            0.9706833958625793
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1726.CSV",
+        "gesture": 1,
+        "results": [
+            1.2038120985380374e-05,
+            0.9999881982803345
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1727.CSV",
+        "gesture": 1,
+        "results": [
+            4.3074676796095446e-05,
+            0.9999573230743408
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1728.CSV",
+        "gesture": 1,
+        "results": [
+            3.290965011615299e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1729.CSV",
+        "gesture": 1,
+        "results": [
+            3.744133181271536e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1730.CSV",
+        "gesture": 1,
+        "results": [
+            3.104502468431747e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1731.CSV",
+        "gesture": 1,
+        "results": [
+            1.4219037893781206e-06,
+            0.9999985694885254
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1732.CSV",
+        "gesture": 1,
+        "results": [
+            2.209177182521671e-06,
+            0.9999978542327881
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1733.CSV",
+        "gesture": 1,
+        "results": [
+            1.0105111414304702e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1734.CSV",
+        "gesture": 1,
+        "results": [
+            0.6427006721496582,
+            0.3444920480251312
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1735.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999874830245972,
+            1.2633616279345006e-05
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1736.CSV",
+        "gesture": 1,
+        "results": [
+            3.841882403321506e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1737.CSV",
+        "gesture": 1,
+        "results": [
+            5.881619635772495e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1738.CSV",
+        "gesture": 1,
+        "results": [
+            1.2057917047059163e-05,
+            0.999988317489624
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1739.CSV",
+        "gesture": 1,
+        "results": [
+            0.30939945578575134,
+            0.6956790089607239
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1740.CSV",
+        "gesture": 1,
+        "results": [
+            1.0,
+            3.3105699515090237e-08
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1741.CSV",
+        "gesture": 1,
+        "results": [
+            0.0003382661670912057,
+            0.9996638298034668
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1742.CSV",
+        "gesture": 1,
+        "results": [
+            7.619471165121183e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1743.CSV",
+        "gesture": 1,
+        "results": [
+            0.3338194489479065,
+            0.6718763113021851
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1744.CSV",
+        "gesture": 1,
+        "results": [
+            4.7973035322002033e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1745.CSV",
+        "gesture": 1,
+        "results": [
+            9.221361096933833e-07,
+            0.9999990463256836
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1746.CSV",
+        "gesture": 1,
+        "results": [
+            2.233762286252272e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1747.CSV",
+        "gesture": 1,
+        "results": [
+            0.00022949051344767213,
+            0.9997715353965759
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1748.CSV",
+        "gesture": 1,
+        "results": [
+            0.0004700828867498785,
+            0.9995383024215698
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1749.CSV",
+        "gesture": 1,
+        "results": [
+            1.2131875337217934e-05,
+            0.9999880790710449
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1750.CSV",
+        "gesture": 1,
+        "results": [
+            0.46215423941612244,
+            0.5281383991241455
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1751.CSV",
+        "gesture": 1,
+        "results": [
+            4.4103985601395834e-06,
+            0.9999955892562866
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1752.CSV",
+        "gesture": 1,
+        "results": [
+            0.999998927116394,
+            1.0902596159212408e-06
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1753.CSV",
+        "gesture": 1,
+        "results": [
+            8.546650498431063e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1754.CSV",
+        "gesture": 1,
+        "results": [
+            1.7393718735547736e-05,
+            0.9999815225601196
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1755.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999995231628418,
+            4.294664677217952e-07
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1756.CSV",
+        "gesture": 1,
+        "results": [
+            2.1046796305768112e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1757.CSV",
+        "gesture": 1,
+        "results": [
+            1.5101094277270022e-06,
+            0.9999984502792358
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1758.CSV",
+        "gesture": 1,
+        "results": [
+            0.9935626983642578,
+            0.006537734996527433
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1759.CSV",
+        "gesture": 1,
+        "results": [
+            1.0624601287645419e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1760.CSV",
+        "gesture": 1,
+        "results": [
+            0.0019861857872456312,
+            0.998076319694519
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1761.CSV",
+        "gesture": 1,
+        "results": [
+            3.5402370031079045e-06,
+            0.999996542930603
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1762.CSV",
+        "gesture": 1,
+        "results": [
+            4.134926712140441e-07,
+            0.9999995231628418
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1763.CSV",
+        "gesture": 1,
+        "results": [
+            3.470220333312568e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1764.CSV",
+        "gesture": 1,
+        "results": [
+            0.010320468805730343,
+            0.9898520112037659
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1765.CSV",
+        "gesture": 1,
+        "results": [
+            5.3989065236237366e-06,
+            0.9999945163726807
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1766.CSV",
+        "gesture": 1,
+        "results": [
+            0.0012128251837566495,
+            0.9988462924957275
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1767.CSV",
+        "gesture": 1,
+        "results": [
+            4.992620539212567e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1768.CSV",
+        "gesture": 1,
+        "results": [
+            0.0024671179708093405,
+            0.9976735711097717
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1769.CSV",
+        "gesture": 1,
+        "results": [
+            1.0033489594718503e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1770.CSV",
+        "gesture": 1,
+        "results": [
+            4.533156516828285e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1771.CSV",
+        "gesture": 1,
+        "results": [
+            0.00027379943639971316,
+            0.9997233748435974
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1772.CSV",
+        "gesture": 1,
+        "results": [
+            0.020462464541196823,
+            0.9814919829368591
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1773.CSV",
+        "gesture": 1,
+        "results": [
+            0.0004810523532796651,
+            0.9995408058166504
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1774.CSV",
+        "gesture": 1,
+        "results": [
+            0.0014235934941098094,
+            0.9986000657081604
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1775.CSV",
+        "gesture": 1,
+        "results": [
+            0.06975192576646805,
+            0.9309633374214172
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1776.CSV",
+        "gesture": 1,
+        "results": [
+            5.967595825495664e-06,
+            0.9999939203262329
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1777.CSV",
+        "gesture": 1,
+        "results": [
+            6.596664206881542e-06,
+            0.9999933242797852
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1778.CSV",
+        "gesture": 1,
+        "results": [
+            5.4485389000547e-07,
+            0.9999994039535522
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1779.CSV",
+        "gesture": 1,
+        "results": [
+            2.4986716198327485e-06,
+            0.9999974966049194
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1780.CSV",
+        "gesture": 1,
+        "results": [
+            2.9114810562447246e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1781.CSV",
+        "gesture": 1,
+        "results": [
+            1.8846982129616663e-05,
+            0.9999814033508301
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1782.CSV",
+        "gesture": 1,
+        "results": [
+            0.0033814602065831423,
+            0.9966021776199341
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1783.CSV",
+        "gesture": 1,
+        "results": [
+            5.750922404956782e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1784.CSV",
+        "gesture": 1,
+        "results": [
+            2.5419380489388743e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1785.CSV",
+        "gesture": 1,
+        "results": [
+            1.3217138075560797e-05,
+            0.9999861717224121
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1786.CSV",
+        "gesture": 1,
+        "results": [
+            3.3758766893043912e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1787.CSV",
+        "gesture": 1,
+        "results": [
+            2.0221142449372564e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1788.CSV",
+        "gesture": 1,
+        "results": [
+            0.0006081811734475195,
+            0.9994081258773804
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1789.CSV",
+        "gesture": 1,
+        "results": [
+            1.8519258446758613e-05,
+            0.999982476234436
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1790.CSV",
+        "gesture": 1,
+        "results": [
+            1.1337230034769163e-06,
+            0.999998927116394
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1791.CSV",
+        "gesture": 1,
+        "results": [
+            0.0027708904817700386,
+            0.9972721934318542
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1792.CSV",
+        "gesture": 1,
+        "results": [
+            8.037036280938992e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1793.CSV",
+        "gesture": 1,
+        "results": [
+            0.00022241720580495894,
+            0.9997888207435608
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1794.CSV",
+        "gesture": 1,
+        "results": [
+            0.06808709353208542,
+            0.9331563711166382
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1795.CSV",
+        "gesture": 1,
+        "results": [
+            6.622768999875461e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1796.CSV",
+        "gesture": 1,
+        "results": [
+            2.293313450252299e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1797.CSV",
+        "gesture": 1,
+        "results": [
+            2.512854507585871e-06,
+            0.9999974966049194
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1798.CSV",
+        "gesture": 1,
+        "results": [
+            3.1607677897227404e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1799.CSV",
+        "gesture": 1,
+        "results": [
+            8.259560786427755e-07,
+            0.9999991655349731
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1800.CSV",
+        "gesture": 1,
+        "results": [
+            0.00019994941249024123,
+            0.9997988343238831
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1801.CSV",
+        "gesture": 1,
+        "results": [
+            3.9692343989372603e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1802.CSV",
+        "gesture": 1,
+        "results": [
+            7.281813196868825e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1803.CSV",
+        "gesture": 1,
+        "results": [
+            4.3676276817450344e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1804.CSV",
+        "gesture": 1,
+        "results": [
+            3.8810896512586623e-05,
+            0.9999593496322632
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1805.CSV",
+        "gesture": 1,
+        "results": [
+            5.687405746357399e-07,
+            0.9999994039535522
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1806.CSV",
+        "gesture": 1,
+        "results": [
+            2.1130046661710367e-05,
+            0.9999785423278809
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1807.CSV",
+        "gesture": 1,
+        "results": [
+            1.452442006666388e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1808.CSV",
+        "gesture": 1,
+        "results": [
+            7.166659266033548e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1809.CSV",
+        "gesture": 1,
+        "results": [
+            3.046561047881369e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1810.CSV",
+        "gesture": 1,
+        "results": [
+            1.6983503314804693e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1811.CSV",
+        "gesture": 1,
+        "results": [
+            4.755474094508827e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1812.CSV",
+        "gesture": 1,
+        "results": [
+            1.4930007637303788e-05,
+            0.9999852180480957
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1813.CSV",
+        "gesture": 1,
+        "results": [
+            1.3104556273901835e-05,
+            0.9999874830245972
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1814.CSV",
+        "gesture": 1,
+        "results": [
+            0.006552145350724459,
+            0.9927176237106323
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1815.CSV",
+        "gesture": 1,
+        "results": [
+            4.2741934991319397e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1816.CSV",
+        "gesture": 1,
+        "results": [
+            3.946243865016186e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1817.CSV",
+        "gesture": 1,
+        "results": [
+            0.02776596136391163,
+            0.9729750752449036
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1818.CSV",
+        "gesture": 1,
+        "results": [
+            2.5107033252425026e-06,
+            0.9999974966049194
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1819.CSV",
+        "gesture": 1,
+        "results": [
+            2.191456360378652e-06,
+            0.9999978542327881
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1820.CSV",
+        "gesture": 1,
+        "results": [
+            3.4098246448621694e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1821.CSV",
+        "gesture": 1,
+        "results": [
+            8.995423428359572e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1822.CSV",
+        "gesture": 1,
+        "results": [
+            0.0005587885389104486,
+            0.9994328618049622
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1823.CSV",
+        "gesture": 1,
+        "results": [
+            1.6768359500929364e-06,
+            0.9999983310699463
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1824.CSV",
+        "gesture": 1,
+        "results": [
+            8.358566105926002e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1825.CSV",
+        "gesture": 1,
+        "results": [
+            4.793706320782576e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1826.CSV",
+        "gesture": 1,
+        "results": [
+            0.0018980877939611673,
+            0.9981198906898499
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1827.CSV",
+        "gesture": 1,
+        "results": [
+            0.00011106194142485037,
+            0.9998906850814819
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1828.CSV",
+        "gesture": 1,
+        "results": [
+            9.434023013454862e-06,
+            0.999990701675415
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1829.CSV",
+        "gesture": 1,
+        "results": [
+            0.0001130754390032962,
+            0.9998884201049805
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1830.CSV",
+        "gesture": 1,
+        "results": [
+            0.0014459430240094662,
+            0.9985811710357666
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1831.CSV",
+        "gesture": 1,
+        "results": [
+            3.0036017051315866e-06,
+            0.9999970197677612
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1832.CSV",
+        "gesture": 1,
+        "results": [
+            4.42716645920882e-06,
+            0.9999957084655762
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1833.CSV",
+        "gesture": 1,
+        "results": [
+            1.7713497072691098e-05,
+            0.9999828338623047
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1834.CSV",
+        "gesture": 1,
+        "results": [
+            3.7028421502327546e-05,
+            0.999966025352478
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1835.CSV",
+        "gesture": 1,
+        "results": [
+            0.02363278530538082,
+            0.9766544103622437
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1836.CSV",
+        "gesture": 1,
+        "results": [
+            4.5884976884735806e-07,
+            0.9999995231628418
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1837.CSV",
+        "gesture": 1,
+        "results": [
+            7.4605645750125404e-06,
+            0.9999926090240479
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1838.CSV",
+        "gesture": 1,
+        "results": [
+            8.194696420105174e-06,
+            0.9999918937683105
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1839.CSV",
+        "gesture": 1,
+        "results": [
+            2.6880934811401858e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1840.CSV",
+        "gesture": 1,
+        "results": [
+            9.36241340241395e-05,
+            0.9999067783355713
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1841.CSV",
+        "gesture": 1,
+        "results": [
+            1.1672692323827505e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1842.CSV",
+        "gesture": 1,
+        "results": [
+            1.0089083346542793e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1843.CSV",
+        "gesture": 1,
+        "results": [
+            0.5619099140167236,
+            0.45047691464424133
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1844.CSV",
+        "gesture": 1,
+        "results": [
+            4.144907350678295e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1845.CSV",
+        "gesture": 1,
+        "results": [
+            6.598047264105844e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1846.CSV",
+        "gesture": 1,
+        "results": [
+            5.1996021710465357e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1847.CSV",
+        "gesture": 1,
+        "results": [
+            4.1913579480024055e-05,
+            0.999958872795105
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1848.CSV",
+        "gesture": 1,
+        "results": [
+            0.5451407432556152,
+            0.457330584526062
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1849.CSV",
+        "gesture": 1,
+        "results": [
+            8.421084771725873e-07,
+            0.9999991655349731
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1850.CSV",
+        "gesture": 1,
+        "results": [
+            0.9128597974777222,
+            0.08708567917346954
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1851.CSV",
+        "gesture": 1,
+        "results": [
+            0.9988629817962646,
+            0.0011297195451334119
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1852.CSV",
+        "gesture": 1,
+        "results": [
+            1.5767236050123756e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1853.CSV",
+        "gesture": 1,
+        "results": [
+            1.8841583848683285e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1854.CSV",
+        "gesture": 1,
+        "results": [
+            2.4866452008609485e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1855.CSV",
+        "gesture": 1,
+        "results": [
+            4.0067757112183244e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1856.CSV",
+        "gesture": 1,
+        "results": [
+            1.526217019431897e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1857.CSV",
+        "gesture": 1,
+        "results": [
+            3.773247226490639e-05,
+            0.9999617338180542
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1858.CSV",
+        "gesture": 1,
+        "results": [
+            1.5370573702711e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1859.CSV",
+        "gesture": 1,
+        "results": [
+            3.2288164675264852e-06,
+            0.9999969005584717
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1860.CSV",
+        "gesture": 1,
+        "results": [
+            7.3360664210042614e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1861.CSV",
+        "gesture": 1,
+        "results": [
+            0.14296069741249084,
+            0.8585672974586487
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1862.CSV",
+        "gesture": 1,
+        "results": [
+            3.6863230246098055e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1863.CSV",
+        "gesture": 1,
+        "results": [
+            1.3188747871595297e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1864.CSV",
+        "gesture": 1,
+        "results": [
+            0.0002316177124157548,
+            0.9997710585594177
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1865.CSV",
+        "gesture": 1,
+        "results": [
+            7.62349657179584e-07,
+            0.9999992847442627
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1866.CSV",
+        "gesture": 1,
+        "results": [
+            5.5951099056983367e-05,
+            0.9999445676803589
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1867.CSV",
+        "gesture": 1,
+        "results": [
+            9.245345822250783e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1868.CSV",
+        "gesture": 1,
+        "results": [
+            0.0001518792996648699,
+            0.999848484992981
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1869.CSV",
+        "gesture": 1,
+        "results": [
+            3.730975367943756e-05,
+            0.999962329864502
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1870.CSV",
+        "gesture": 1,
+        "results": [
+            2.717109559569053e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1871.CSV",
+        "gesture": 1,
+        "results": [
+            0.03884967789053917,
+            0.9601098895072937
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1872.CSV",
+        "gesture": 1,
+        "results": [
+            5.981758643969215e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1873.CSV",
+        "gesture": 1,
+        "results": [
+            0.09065656363964081,
+            0.909973680973053
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1874.CSV",
+        "gesture": 1,
+        "results": [
+            1.528800481764847e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1875.CSV",
+        "gesture": 1,
+        "results": [
+            1.1305903262204264e-11,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1876.CSV",
+        "gesture": 1,
+        "results": [
+            5.342963504517684e-06,
+            0.9999947547912598
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1877.CSV",
+        "gesture": 1,
+        "results": [
+            1.8885411918745376e-05,
+            0.9999818801879883
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1878.CSV",
+        "gesture": 1,
+        "results": [
+            0.09523310512304306,
+            0.9110987186431885
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1879.CSV",
+        "gesture": 1,
+        "results": [
+            3.844293587462744e-06,
+            0.9999958276748657
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1880.CSV",
+        "gesture": 1,
+        "results": [
+            1.421846832272422e-06,
+            0.9999985694885254
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1881.CSV",
+        "gesture": 1,
+        "results": [
+            2.4388926433971392e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1882.CSV",
+        "gesture": 1,
+        "results": [
+            1.425577664804223e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1883.CSV",
+        "gesture": 1,
+        "results": [
+            4.932880528940586e-06,
+            0.9999951124191284
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1884.CSV",
+        "gesture": 1,
+        "results": [
+            0.0029410908464342356,
+            0.9970970153808594
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1885.CSV",
+        "gesture": 1,
+        "results": [
+            1.9609260049069377e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1886.CSV",
+        "gesture": 1,
+        "results": [
+            2.2966898995946394e-06,
+            0.9999978542327881
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1887.CSV",
+        "gesture": 1,
+        "results": [
+            4.255224484950304e-05,
+            0.999958872795105
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1888.CSV",
+        "gesture": 1,
+        "results": [
+            3.584506202969351e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1889.CSV",
+        "gesture": 1,
+        "results": [
+            5.927873871769407e-07,
+            0.9999994039535522
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1890.CSV",
+        "gesture": 1,
+        "results": [
+            7.240636819005886e-07,
+            0.9999992847442627
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1891.CSV",
+        "gesture": 1,
+        "results": [
+            5.6847056839615107e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1892.CSV",
+        "gesture": 1,
+        "results": [
+            6.969634591680318e-11,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1893.CSV",
+        "gesture": 1,
+        "results": [
+            7.021733416934239e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1894.CSV",
+        "gesture": 1,
+        "results": [
+            2.6623294679950504e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1895.CSV",
+        "gesture": 1,
+        "results": [
+            6.295431944636221e-07,
+            0.9999994039535522
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1896.CSV",
+        "gesture": 1,
+        "results": [
+            0.001609614584594965,
+            0.9984048008918762
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1897.CSV",
+        "gesture": 1,
+        "results": [
+            0.00021045099128969014,
+            0.9997908473014832
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1898.CSV",
+        "gesture": 1,
+        "results": [
+            1.7155334930407662e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1899.CSV",
+        "gesture": 1,
+        "results": [
+            0.023472415283322334,
+            0.977611780166626
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1900.CSV",
+        "gesture": 1,
+        "results": [
+            0.00011421655653975904,
+            0.9998857975006104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1901.CSV",
+        "gesture": 1,
+        "results": [
+            0.000395396287785843,
+            0.999618649482727
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1902.CSV",
+        "gesture": 1,
+        "results": [
+            0.004833883140236139,
+            0.9952684044837952
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1903.CSV",
+        "gesture": 1,
+        "results": [
+            3.457346338109346e-07,
+            0.9999996423721313
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1904.CSV",
+        "gesture": 1,
+        "results": [
+            5.86516613054755e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1905.CSV",
+        "gesture": 1,
+        "results": [
+            2.0029761182982497e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1906.CSV",
+        "gesture": 1,
+        "results": [
+            1.0132218397629345e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1907.CSV",
+        "gesture": 1,
+        "results": [
+            1.1727103128578165e-06,
+            0.999998927116394
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1908.CSV",
+        "gesture": 1,
+        "results": [
+            1.0227586244582199e-05,
+            0.9999901056289673
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1909.CSV",
+        "gesture": 1,
+        "results": [
+            9.257186128763806e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1910.CSV",
+        "gesture": 1,
+        "results": [
+            0.0002544005401432514,
+            0.9997557997703552
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1911.CSV",
+        "gesture": 1,
+        "results": [
+            1.0970245156727287e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1912.CSV",
+        "gesture": 1,
+        "results": [
+            2.3252472658441548e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1913.CSV",
+        "gesture": 1,
+        "results": [
+            0.021368134766817093,
+            0.979007363319397
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1914.CSV",
+        "gesture": 1,
+        "results": [
+            5.0720984290819615e-05,
+            0.9999508857727051
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1915.CSV",
+        "gesture": 1,
+        "results": [
+            7.919386257881911e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1916.CSV",
+        "gesture": 1,
+        "results": [
+            2.348065208934713e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1917.CSV",
+        "gesture": 1,
+        "results": [
+            0.9998049139976501,
+            0.00017602380830794573
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1918.CSV",
+        "gesture": 1,
+        "results": [
+            0.001571392873302102,
+            0.9983695149421692
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1919.CSV",
+        "gesture": 1,
+        "results": [
+            0.0003858384443446994,
+            0.9996154308319092
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1920.CSV",
+        "gesture": 1,
+        "results": [
+            2.995094973812229e-06,
+            0.9999969005584717
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1921.CSV",
+        "gesture": 1,
+        "results": [
+            0.2217208296060562,
+            0.7767199873924255
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1922.CSV",
+        "gesture": 1,
+        "results": [
+            4.1605186851256803e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1923.CSV",
+        "gesture": 1,
+        "results": [
+            6.006694253102296e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1924.CSV",
+        "gesture": 1,
+        "results": [
+            7.137266067047676e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1925.CSV",
+        "gesture": 1,
+        "results": [
+            5.6228359426313546e-06,
+            0.9999946355819702
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1926.CSV",
+        "gesture": 1,
+        "results": [
+            8.72040163812926e-06,
+            0.9999916553497314
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1927.CSV",
+        "gesture": 1,
+        "results": [
+            7.538617501268163e-05,
+            0.999923586845398
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1928.CSV",
+        "gesture": 1,
+        "results": [
+            1.7325207934959508e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1929.CSV",
+        "gesture": 1,
+        "results": [
+            0.9971087574958801,
+            0.0029297599103301764
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1930.CSV",
+        "gesture": 1,
+        "results": [
+            1.8199342477487335e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1931.CSV",
+        "gesture": 1,
+        "results": [
+            2.591418457598138e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1932.CSV",
+        "gesture": 1,
+        "results": [
+            2.2988086989528256e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1933.CSV",
+        "gesture": 1,
+        "results": [
+            9.89988890864879e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1934.CSV",
+        "gesture": 1,
+        "results": [
+            2.673664588337399e-11,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1935.CSV",
+        "gesture": 1,
+        "results": [
+            3.192978381694189e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1936.CSV",
+        "gesture": 1,
+        "results": [
+            1.080773444073202e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1937.CSV",
+        "gesture": 1,
+        "results": [
+            7.565995474578813e-07,
+            0.9999992847442627
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1938.CSV",
+        "gesture": 1,
+        "results": [
+            6.0863039053060675e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1939.CSV",
+        "gesture": 1,
+        "results": [
+            1.9889689895080664e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1940.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999200105667114,
+            8.2443053543102e-05
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1941.CSV",
+        "gesture": 1,
+        "results": [
+            1.7639733584928763e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1942.CSV",
+        "gesture": 1,
+        "results": [
+            0.0002614496916066855,
+            0.9997404217720032
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1943.CSV",
+        "gesture": 1,
+        "results": [
+            7.687632752606532e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1944.CSV",
+        "gesture": 1,
+        "results": [
+            0.9460982084274292,
+            0.05385998263955116
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1945.CSV",
+        "gesture": 1,
+        "results": [
+            8.79976596479537e-06,
+            0.9999915361404419
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1946.CSV",
+        "gesture": 1,
+        "results": [
+            1.1552523574209772e-05,
+            0.9999884366989136
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1947.CSV",
+        "gesture": 1,
+        "results": [
+            2.7553578547667712e-05,
+            0.9999738931655884
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1948.CSV",
+        "gesture": 1,
+        "results": [
+            2.205218976314427e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1949.CSV",
+        "gesture": 1,
+        "results": [
+            0.00014081150584388524,
+            0.9998636245727539
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1950.CSV",
+        "gesture": 1,
+        "results": [
+            1.2500777302193455e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1951.CSV",
+        "gesture": 1,
+        "results": [
+            2.747830019078634e-10,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1952.CSV",
+        "gesture": 1,
+        "results": [
+            0.04046017304062843,
+            0.9587029814720154
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1953.CSV",
+        "gesture": 1,
+        "results": [
+            4.5546632437831747e-11,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1954.CSV",
+        "gesture": 1,
+        "results": [
+            7.080276645865524e-06,
+            0.9999929666519165
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1955.CSV",
+        "gesture": 1,
+        "results": [
+            1.3089119420328643e-05,
+            0.9999854564666748
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1956.CSV",
+        "gesture": 1,
+        "results": [
+            1.3361906026077008e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1957.CSV",
+        "gesture": 1,
+        "results": [
+            0.00017824767564889044,
+            0.9998230338096619
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1958.CSV",
+        "gesture": 1,
+        "results": [
+            0.015304061584174633,
+            0.9849967956542969
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1959.CSV",
+        "gesture": 1,
+        "results": [
+            3.0406621590373106e-05,
+            0.9999700784683228
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1960.CSV",
+        "gesture": 1,
+        "results": [
+            5.543040515476605e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1961.CSV",
+        "gesture": 1,
+        "results": [
+            2.8011984909426246e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1962.CSV",
+        "gesture": 1,
+        "results": [
+            2.597263346615364e-06,
+            0.9999973773956299
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1963.CSV",
+        "gesture": 1,
+        "results": [
+            0.9051048755645752,
+            0.09315022826194763
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1964.CSV",
+        "gesture": 1,
+        "results": [
+            0.1606043428182602,
+            0.8410641551017761
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1965.CSV",
+        "gesture": 1,
+        "results": [
+            6.45858051484538e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1966.CSV",
+        "gesture": 1,
+        "results": [
+            1.1741073649318423e-05,
+            0.999988317489624
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1967.CSV",
+        "gesture": 1,
+        "results": [
+            0.9999617338180542,
+            3.866833139909431e-05
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1968.CSV",
+        "gesture": 1,
+        "results": [
+            5.7503842981532216e-05,
+            0.9999401569366455
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1969.CSV",
+        "gesture": 1,
+        "results": [
+            2.1724976249970496e-05,
+            0.9999803304672241
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1970.CSV",
+        "gesture": 1,
+        "results": [
+            6.670140919595724e-06,
+            0.9999921321868896
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1971.CSV",
+        "gesture": 1,
+        "results": [
+            9.61324531090213e-07,
+            0.9999990463256836
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1972.CSV",
+        "gesture": 1,
+        "results": [
+            1.474811028856493e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1973.CSV",
+        "gesture": 1,
+        "results": [
+            0.9093275666236877,
+            0.09176576137542725
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1974.CSV",
+        "gesture": 1,
+        "results": [
+            0.0004020411870442331,
+            0.9996019005775452
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1975.CSV",
+        "gesture": 1,
+        "results": [
+            8.854814126380006e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1976.CSV",
+        "gesture": 1,
+        "results": [
+            6.676023733831471e-09,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1977.CSV",
+        "gesture": 1,
+        "results": [
+            7.444109684229261e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1978.CSV",
+        "gesture": 1,
+        "results": [
+            1.5035777778393822e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1979.CSV",
+        "gesture": 1,
+        "results": [
+            2.524563740280428e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1980.CSV",
+        "gesture": 1,
+        "results": [
+            0.00025117697077803314,
+            0.9997493624687195
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1981.CSV",
+        "gesture": 1,
+        "results": [
+            9.010348003357649e-05,
+            0.9999135732650757
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1982.CSV",
+        "gesture": 1,
+        "results": [
+            0.00030193821294233203,
+            0.9997039437294006
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1983.CSV",
+        "gesture": 1,
+        "results": [
+            1.1595050636969972e-05,
+            0.9999889135360718
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1984.CSV",
+        "gesture": 1,
+        "results": [
+            2.0742259948747233e-05,
+            0.9999798536300659
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1985.CSV",
+        "gesture": 1,
+        "results": [
+            3.527951776050031e-06,
+            0.999996542930603
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1986.CSV",
+        "gesture": 1,
+        "results": [
+            3.8893966120667756e-05,
+            0.999961256980896
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1987.CSV",
+        "gesture": 1,
+        "results": [
+            5.24644237884786e-05,
+            0.9999463558197021
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1988.CSV",
+        "gesture": 1,
+        "results": [
+            0.003996140323579311,
+            0.9961926937103271
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1989.CSV",
+        "gesture": 1,
+        "results": [
+            1.87019406894251e-06,
+            0.9999982118606567
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1990.CSV",
+        "gesture": 1,
+        "results": [
+            2.0586900006946962e-07,
+            0.9999997615814209
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1991.CSV",
+        "gesture": 1,
+        "results": [
+            1.0,
+            9.813296841798547e-09
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1992.CSV",
+        "gesture": 1,
+        "results": [
+            0.06810566782951355,
+            0.93190997838974
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1993.CSV",
+        "gesture": 1,
+        "results": [
+            1.196205266751349e-05,
+            0.9999885559082031
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1994.CSV",
+        "gesture": 1,
+        "results": [
+            2.198612136794509e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1995.CSV",
+        "gesture": 1,
+        "results": [
+            1.013346029310469e-08,
+            1.0
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1996.CSV",
+        "gesture": 1,
+        "results": [
+            2.3384441192320082e-06,
+            0.9999977350234985
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1997.CSV",
+        "gesture": 1,
+        "results": [
+            0.06379468739032745,
+            0.9370752573013306
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1998.CSV",
+        "gesture": 1,
+        "results": [
+            6.931728790959824e-08,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example1999.CSV",
+        "gesture": 1,
+        "results": [
+            1.3127966269621538e-07,
+            0.9999998807907104
+        ]
+    },
+    {
+        "filename": "Gesture2_Example2000.CSV",
+        "gesture": 1,
+        "results": [
+            0.07942130416631699,
+            0.923048734664917
+        ]
+    }
+]
